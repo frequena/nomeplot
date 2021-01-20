@@ -1,0 +1,16 @@
+Instructions to use NOMe-PCR example data
+------------------------------------------
+
+Use your web browser to go to NOMePlot main screen at https://landeiralab.shinyapps.io/nomeplot
+
+1. Click on "Sanger sequencing" on the left menu. 
+2. Click on "NOMe-treated" on the left menu.  
+3. Click on "Browse" on the "Reference genomic sequence" box and upload the genomic sequence "Wnt1-Reference-Genomic.txt"
+4. Click on "Browse" on the "NOMe-treated sequences" box, select the sixteen NOMe-treated sequences for Wnt1 gene and upload them. 
+5. Lollipop graphic, heatmap and linechart analysis should already be visible on the right panel. 
+6. Arrange sequences by adjusting the clustering window to 140 bp in the "Arrange sequences" panel.
+7. On the "Personalize Lollipop graphic" panel:
+	-Mark "Yes" on the "Identify nucleosome occupied regions" option to draw red lines to represent the regions occupied by a nucleosome.
+	-Mark "Yes" on the "Label TSS" option to type the position of TSS calculated from the start of the sequence (Wnt1 TSS position= 223).
+	-If desire, personalize lollipop graphic colors.
+8. Click on "Download NOMe analysis", " Download Lollipop graphic (.svg)" and "Download technical report" to obtain analysis files.

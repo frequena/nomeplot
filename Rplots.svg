@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480px" height="480px" viewBox="0 0 480 480" version="1.1">
+  <metadata xmlns:gridsvg="http://www.stat.auckland.ac.nz/~paul/R/gridSVG/">
+    <gridsvg:generator name="gridSVG" version="1.5-1" time="2019-07-20 13:07:30"/>
+    <gridsvg:argument name="name" value="Rplots.svg"/>
+    <gridsvg:argument name="exportCoords" value="none"/>
+    <gridsvg:argument name="exportMappings" value="none"/>
+    <gridsvg:argument name="exportJS" value="none"/>
+    <gridsvg:argument name="res" value="72"/>
+    <gridsvg:argument name="prefix" value=""/>
+    <gridsvg:argument name="addClasses" value="FALSE"/>
+    <gridsvg:argument name="indent" value="TRUE"/>
+    <gridsvg:argument name="htmlWrapper" value="FALSE"/>
+    <gridsvg:argument name="usePaths" value="vpPaths"/>
+    <gridsvg:argument name="uniqueNames" value="TRUE"/>
+    <gridsvg:separator name="id.sep" value="."/>
+    <gridsvg:separator name="gPath.sep" value="::"/>
+    <gridsvg:separator name="vpPath.sep" value="::"/>
+  </metadata>
+  <g transform="translate(0, 480) scale(1, -1)">
+    <g id="gridSVG" fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" font-size="12" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" fill-opacity="1" font-weight="normal" font-style="normal">
+      <g id="circles.1">
+        <circle id="circles.1.1" cx="19.15" cy="328.8" r="4.32"/>
+      </g>
+      <g id="circles.2">
+        <circle id="circles.2.1" cx="49.07" cy="328.8" r="4.32"/>
+      </g>
+      <g id="circles.3">
+        <circle id="circles.3.1" cx="64.63" cy="328.8" r="4.32"/>
+      </g>
+      <g id="circles.4">
+        <circle id="circles.4.1" cx="98.14" cy="328.8" r="4.32"/>
+      </g>
+      <g id="circles.5">
+        <circle id="circles.5.1" cx="222.61" cy="328.8" r="4.32"/>
+      </g>
+      <g id="circles.6">
+        <circle id="circles.6.1" cx="240.57" cy="328.8" r="4.32"/>
+      </g>
+      <g id="circles.7">
+        <circle id="circles.7.1" cx="263.31" cy="328.8" r="4.32"/>
+      </g>
+      <g id="circles.8">
+        <circle id="circles.8.1" cx="269.29" cy="328.8" r="4.32"/>
+      </g>
+      <g id="circles.9">
+        <circle id="circles.9.1" cx="323.15" cy="328.8" r="4.32"/>
+      </g>
+      <g id="circles.10">
+        <circle id="circles.10.1" cx="382.99" cy="328.8" r="4.32"/>
+      </g>
+      <g id="circles.11">
+        <circle id="circles.11.1" cx="403.34" cy="328.8" r="4.32"/>
+      </g>
+      <g id="circles.12">
+        <circle id="circles.12.1" cx="456" cy="328.8" r="4.32"/>
+      </g>
+      <g id="circles.13">
+        <circle id="circles.13.1" cx="19.15" cy="319.68" r="4.32"/>
+      </g>
+      <g id="circles.14">
+        <circle id="circles.14.1" cx="49.07" cy="319.68" r="4.32"/>
+      </g>
+      <g id="circles.15">
+        <circle id="circles.15.1" cx="64.63" cy="319.68" r="4.32"/>
+      </g>
+      <g id="circles.16">
+        <circle id="circles.16.1" cx="98.14" cy="319.68" r="4.32"/>
+      </g>
+      <g id="circles.17">
+        <circle id="circles.17.1" cx="222.61" cy="319.68" r="4.32"/>
+      </g>
+      <g id="circles.18">
+        <circle id="circles.18.1" cx="240.57" cy="319.68" r="4.32"/>
+      </g>
+      <g id="circles.19">
+        <circle id="circles.19.1" cx="263.31" cy="319.68" r="4.32"/>
+      </g>
+      <g id="circles.20">
+        <circle id="circles.20.1" cx="269.29" cy="319.68" r="4.32"/>
+      </g>
+      <g id="circles.21">
+        <circle id="circles.21.1" cx="323.15" cy="319.68" r="4.32"/>
+      </g>
+      <g id="circles.22">
+        <circle id="circles.22.1" cx="382.99" cy="319.68" r="4.32"/>
+      </g>
+      <g id="circles.23">
+        <circle id="circles.23.1" cx="403.34" cy="319.68" r="4.32"/>
+      </g>
+      <g id="circles.24">
+        <circle id="circles.24.1" cx="456" cy="319.68" r="4.32"/>
+      </g>
+      <g id="circles.25">
+        <circle id="circles.25.1" cx="19.15" cy="310.56" r="4.32"/>
+      </g>
+      <g id="circles.26">
+        <circle id="circles.26.1" cx="49.07" cy="310.56" r="4.32"/>
+      </g>
+      <g id="circles.27">
+        <circle id="circles.27.1" cx="64.63" cy="310.56" r="4.32"/>
+      </g>
+      <g id="circles.28">
+        <circle id="circles.28.1" cx="98.14" cy="310.56" r="4.32"/>
+      </g>
+      <g id="circles.29">
+        <circle id="circles.29.1" cx="222.61" cy="310.56" r="4.32"/>
+      </g>
+      <g id="circles.30">
+        <circle id="circles.30.1" cx="240.57" cy="310.56" r="4.32"/>
+      </g>
+      <g id="circles.31">
+        <circle id="circles.31.1" cx="263.31" cy="310.56" r="4.32"/>
+      </g>
+      <g id="circles.32">
+        <circle id="circles.32.1" cx="269.29" cy="310.56" r="4.32"/>
+      </g>
+      <g id="circles.33">
+        <circle id="circles.33.1" cx="323.15" cy="310.56" r="4.32"/>
+      </g>
+      <g id="circles.34">
+        <circle id="circles.34.1" cx="382.99" cy="310.56" r="4.32"/>
+      </g>
+      <g id="circles.35">
+        <circle id="circles.35.1" cx="403.34" cy="310.56" r="4.32"/>
+      </g>
+      <g id="circles.36">
+        <circle id="circles.36.1" cx="456" cy="310.56" r="4.32"/>
+      </g>
+      <g id="circles.37">
+        <circle id="circles.37.1" cx="19.15" cy="301.44" r="4.32"/>
+      </g>
+      <g id="circles.38">
+        <circle id="circles.38.1" cx="49.07" cy="301.44" r="4.32"/>
+      </g>
+      <g id="circles.39">
+        <circle id="circles.39.1" cx="64.63" cy="301.44" r="4.32"/>
+      </g>
+      <g id="circles.40">
+        <circle id="circles.40.1" cx="98.14" cy="301.44" r="4.32"/>
+      </g>
+      <g id="circles.41">
+        <circle id="circles.41.1" cx="222.61" cy="301.44" r="4.32"/>
+      </g>
+      <g id="circles.42">
+        <circle id="circles.42.1" cx="240.57" cy="301.44" r="4.32"/>
+      </g>
+      <g id="circles.43">
+        <circle id="circles.43.1" cx="263.31" cy="301.44" r="4.32"/>
+      </g>
+      <g id="circles.44">
+        <circle id="circles.44.1" cx="269.29" cy="301.44" r="4.32"/>
+      </g>
+      <g id="circles.45">
+        <circle id="circles.45.1" cx="323.15" cy="301.44" r="4.32"/>
+      </g>
+      <g id="circles.46">
+        <circle id="circles.46.1" cx="382.99" cy="301.44" r="4.32"/>
+      </g>
+      <g id="circles.47">
+        <circle id="circles.47.1" cx="403.34" cy="301.44" r="4.32"/>
+      </g>
+      <g id="circles.48">
+        <circle id="circles.48.1" cx="456" cy="301.44" r="4.32"/>
+      </g>
+      <g id="circles.49">
+        <circle id="circles.49.1" cx="19.15" cy="292.32" r="4.32"/>
+      </g>
+      <g id="circles.50">
+        <circle id="circles.50.1" cx="49.07" cy="292.32" r="4.32"/>
+      </g>
+      <g id="circles.51">
+        <circle id="circles.51.1" cx="64.63" cy="292.32" r="4.32"/>
+      </g>
+      <g id="circles.52">
+        <circle id="circles.52.1" cx="98.14" cy="292.32" r="4.32"/>
+      </g>
+      <g id="circles.53">
+        <circle id="circles.53.1" cx="222.61" cy="292.32" r="4.32"/>
+      </g>
+      <g id="circles.54">
+        <circle id="circles.54.1" cx="240.57" cy="292.32" r="4.32"/>
+      </g>
+      <g id="circles.55">
+        <circle id="circles.55.1" cx="263.31" cy="292.32" r="4.32"/>
+      </g>
+      <g id="circles.56">
+        <circle id="circles.56.1" cx="269.29" cy="292.32" r="4.32"/>
+      </g>
+      <g id="circles.57">
+        <circle id="circles.57.1" cx="323.15" cy="292.32" r="4.32"/>
+      </g>
+      <g id="circles.58">
+        <circle id="circles.58.1" cx="382.99" cy="292.32" r="4.32"/>
+      </g>
+      <g id="circles.59">
+        <circle id="circles.59.1" cx="403.34" cy="292.32" r="4.32"/>
+      </g>
+      <g id="circles.60">
+        <circle id="circles.60.1" cx="456" cy="292.32" r="4.32"/>
+      </g>
+      <g id="circles.61">
+        <circle id="circles.61.1" cx="19.15" cy="283.2" r="4.32"/>
+      </g>
+      <g id="circles.62">
+        <circle id="circles.62.1" cx="49.07" cy="283.2" r="4.32"/>
+      </g>
+      <g id="circles.63">
+        <circle id="circles.63.1" cx="64.63" cy="283.2" r="4.32"/>
+      </g>
+      <g id="circles.64">
+        <circle id="circles.64.1" cx="98.14" cy="283.2" r="4.32"/>
+      </g>
+      <g id="circles.65">
+        <circle id="circles.65.1" cx="222.61" cy="283.2" r="4.32"/>
+      </g>
+      <g id="circles.66">
+        <circle id="circles.66.1" cx="240.57" cy="283.2" r="4.32"/>
+      </g>
+      <g id="circles.67">
+        <circle id="circles.67.1" cx="263.31" cy="283.2" r="4.32"/>
+      </g>
+      <g id="circles.68">
+        <circle id="circles.68.1" cx="269.29" cy="283.2" r="4.32"/>
+      </g>
+      <g id="circles.69">
+        <circle id="circles.69.1" cx="323.15" cy="283.2" r="4.32"/>
+      </g>
+      <g id="circles.70">
+        <circle id="circles.70.1" cx="382.99" cy="283.2" r="4.32"/>
+      </g>
+      <g id="circles.71">
+        <circle id="circles.71.1" cx="403.34" cy="283.2" r="4.32"/>
+      </g>
+      <g id="circles.72">
+        <circle id="circles.72.1" cx="456" cy="283.2" r="4.32"/>
+      </g>
+      <g id="circles.73">
+        <circle id="circles.73.1" cx="19.15" cy="274.08" r="4.32"/>
+      </g>
+      <g id="circles.74">
+        <circle id="circles.74.1" cx="49.07" cy="274.08" r="4.32"/>
+      </g>
+      <g id="circles.75">
+        <circle id="circles.75.1" cx="64.63" cy="274.08" r="4.32"/>
+      </g>
+      <g id="circles.76">
+        <circle id="circles.76.1" cx="98.14" cy="274.08" r="4.32"/>
+      </g>
+      <g id="circles.77">
+        <circle id="circles.77.1" cx="222.61" cy="274.08" r="4.32"/>
+      </g>
+      <g id="circles.78">
+        <circle id="circles.78.1" cx="240.57" cy="274.08" r="4.32"/>
+      </g>
+      <g id="circles.79">
+        <circle id="circles.79.1" cx="263.31" cy="274.08" r="4.32"/>
+      </g>
+      <g id="circles.80">
+        <circle id="circles.80.1" cx="269.29" cy="274.08" r="4.32"/>
+      </g>
+      <g id="circles.81">
+        <circle id="circles.81.1" cx="323.15" cy="274.08" r="4.32"/>
+      </g>
+      <g id="circles.82">
+        <circle id="circles.82.1" cx="382.99" cy="274.08" r="4.32"/>
+      </g>
+      <g id="circles.83">
+        <circle id="circles.83.1" cx="403.34" cy="274.08" r="4.32"/>
+      </g>
+      <g id="circles.84">
+        <circle id="circles.84.1" cx="456" cy="274.08" r="4.32"/>
+      </g>
+      <g id="circles.85">
+        <circle id="circles.85.1" cx="19.15" cy="264.96" r="4.32"/>
+      </g>
+      <g id="circles.86">
+        <circle id="circles.86.1" cx="49.07" cy="264.96" r="4.32"/>
+      </g>
+      <g id="circles.87">
+        <circle id="circles.87.1" cx="64.63" cy="264.96" r="4.32"/>
+      </g>
+      <g id="circles.88">
+        <circle id="circles.88.1" cx="98.14" cy="264.96" r="4.32"/>
+      </g>
+      <g id="circles.89">
+        <circle id="circles.89.1" cx="222.61" cy="264.96" r="4.32"/>
+      </g>
+      <g id="circles.90">
+        <circle id="circles.90.1" cx="240.57" cy="264.96" r="4.32"/>
+      </g>
+      <g id="circles.91">
+        <circle id="circles.91.1" cx="263.31" cy="264.96" r="4.32"/>
+      </g>
+      <g id="circles.92">
+        <circle id="circles.92.1" cx="269.29" cy="264.96" r="4.32"/>
+      </g>
+      <g id="circles.93">
+        <circle id="circles.93.1" cx="323.15" cy="264.96" r="4.32"/>
+      </g>
+      <g id="circles.94">
+        <circle id="circles.94.1" cx="382.99" cy="264.96" r="4.32"/>
+      </g>
+      <g id="circles.95">
+        <circle id="circles.95.1" cx="403.34" cy="264.96" r="4.32"/>
+      </g>
+      <g id="circles.96">
+        <circle id="circles.96.1" cx="456" cy="264.96" r="4.32"/>
+      </g>
+      <g id="circles.97">
+        <circle id="circles.97.1" cx="19.15" cy="255.84" r="4.32"/>
+      </g>
+      <g id="circles.98">
+        <circle id="circles.98.1" cx="49.07" cy="255.84" r="4.32"/>
+      </g>
+      <g id="circles.99">
+        <circle id="circles.99.1" cx="64.63" cy="255.84" r="4.32"/>
+      </g>
+      <g id="circles.100">
+        <circle id="circles.100.1" cx="98.14" cy="255.84" r="4.32"/>
+      </g>
+      <g id="circles.101">
+        <circle id="circles.101.1" cx="222.61" cy="255.84" r="4.32"/>
+      </g>
+      <g id="circles.102">
+        <circle id="circles.102.1" cx="240.57" cy="255.84" r="4.32"/>
+      </g>
+      <g id="circles.103">
+        <circle id="circles.103.1" cx="263.31" cy="255.84" r="4.32"/>
+      </g>
+      <g id="circles.104">
+        <circle id="circles.104.1" cx="269.29" cy="255.84" r="4.32"/>
+      </g>
+      <g id="circles.105">
+        <circle id="circles.105.1" cx="323.15" cy="255.84" r="4.32"/>
+      </g>
+      <g id="circles.106">
+        <circle id="circles.106.1" cx="382.99" cy="255.84" r="4.32"/>
+      </g>
+      <g id="circles.107">
+        <circle id="circles.107.1" cx="403.34" cy="255.84" r="4.32"/>
+      </g>
+      <g id="circles.108">
+        <circle id="circles.108.1" cx="456" cy="255.84" r="4.32"/>
+      </g>
+      <g id="circles.109">
+        <circle id="circles.109.1" cx="19.15" cy="246.72" r="4.32"/>
+      </g>
+      <g id="circles.110">
+        <circle id="circles.110.1" cx="49.07" cy="246.72" r="4.32"/>
+      </g>
+      <g id="circles.111">
+        <circle id="circles.111.1" cx="64.63" cy="246.72" r="4.32"/>
+      </g>
+      <g id="circles.112">
+        <circle id="circles.112.1" cx="98.14" cy="246.72" r="4.32"/>
+      </g>
+      <g id="circles.113">
+        <circle id="circles.113.1" cx="222.61" cy="246.72" r="4.32"/>
+      </g>
+      <g id="circles.114">
+        <circle id="circles.114.1" cx="240.57" cy="246.72" r="4.32"/>
+      </g>
+      <g id="circles.115">
+        <circle id="circles.115.1" cx="263.31" cy="246.72" r="4.32"/>
+      </g>
+      <g id="circles.116">
+        <circle id="circles.116.1" cx="269.29" cy="246.72" r="4.32"/>
+      </g>
+      <g id="circles.117">
+        <circle id="circles.117.1" cx="323.15" cy="246.72" r="4.32"/>
+      </g>
+      <g id="circles.118">
+        <circle id="circles.118.1" cx="382.99" cy="246.72" r="4.32"/>
+      </g>
+      <g id="circles.119">
+        <circle id="circles.119.1" cx="403.34" cy="246.72" r="4.32"/>
+      </g>
+      <g id="circles.120">
+        <circle id="circles.120.1" cx="456" cy="246.72" r="4.32"/>
+      </g>
+      <g id="circles.121">
+        <circle id="circles.121.1" cx="19.15" cy="237.6" r="4.32"/>
+      </g>
+      <g id="circles.122">
+        <circle id="circles.122.1" cx="49.07" cy="237.6" r="4.32"/>
+      </g>
+      <g id="circles.123">
+        <circle id="circles.123.1" cx="64.63" cy="237.6" r="4.32"/>
+      </g>
+      <g id="circles.124">
+        <circle id="circles.124.1" cx="98.14" cy="237.6" r="4.32"/>
+      </g>
+      <g id="circles.125">
+        <circle id="circles.125.1" cx="222.61" cy="237.6" r="4.32"/>
+      </g>
+      <g id="circles.126">
+        <circle id="circles.126.1" cx="240.57" cy="237.6" r="4.32"/>
+      </g>
+      <g id="circles.127">
+        <circle id="circles.127.1" cx="263.31" cy="237.6" r="4.32"/>
+      </g>
+      <g id="circles.128">
+        <circle id="circles.128.1" cx="269.29" cy="237.6" r="4.32"/>
+      </g>
+      <g id="circles.129">
+        <circle id="circles.129.1" cx="323.15" cy="237.6" r="4.32"/>
+      </g>
+      <g id="circles.130">
+        <circle id="circles.130.1" cx="382.99" cy="237.6" r="4.32"/>
+      </g>
+      <g id="circles.131">
+        <circle id="circles.131.1" cx="403.34" cy="237.6" r="4.32"/>
+      </g>
+      <g id="circles.132">
+        <circle id="circles.132.1" cx="456" cy="237.6" r="4.32"/>
+      </g>
+      <g id="circles.133">
+        <circle id="circles.133.1" cx="19.15" cy="228.48" r="4.32"/>
+      </g>
+      <g id="circles.134">
+        <circle id="circles.134.1" cx="49.07" cy="228.48" r="4.32"/>
+      </g>
+      <g id="circles.135">
+        <circle id="circles.135.1" cx="64.63" cy="228.48" r="4.32"/>
+      </g>
+      <g id="circles.136">
+        <circle id="circles.136.1" cx="98.14" cy="228.48" r="4.32"/>
+      </g>
+      <g id="circles.137">
+        <circle id="circles.137.1" cx="222.61" cy="228.48" r="4.32"/>
+      </g>
+      <g id="circles.138">
+        <circle id="circles.138.1" cx="240.57" cy="228.48" r="4.32"/>
+      </g>
+      <g id="circles.139">
+        <circle id="circles.139.1" cx="263.31" cy="228.48" r="4.32"/>
+      </g>
+      <g id="circles.140">
+        <circle id="circles.140.1" cx="269.29" cy="228.48" r="4.32"/>
+      </g>
+      <g id="circles.141">
+        <circle id="circles.141.1" cx="323.15" cy="228.48" r="4.32"/>
+      </g>
+      <g id="circles.142">
+        <circle id="circles.142.1" cx="382.99" cy="228.48" r="4.32"/>
+      </g>
+      <g id="circles.143">
+        <circle id="circles.143.1" cx="403.34" cy="228.48" r="4.32"/>
+      </g>
+      <g id="circles.144">
+        <circle id="circles.144.1" cx="456" cy="228.48" r="4.32"/>
+      </g>
+      <g id="circles.145">
+        <circle id="circles.145.1" cx="19.15" cy="219.36" r="4.32"/>
+      </g>
+      <g id="circles.146">
+        <circle id="circles.146.1" cx="49.07" cy="219.36" r="4.32"/>
+      </g>
+      <g id="circles.147">
+        <circle id="circles.147.1" cx="64.63" cy="219.36" r="4.32"/>
+      </g>
+      <g id="circles.148">
+        <circle id="circles.148.1" cx="98.14" cy="219.36" r="4.32" fill="rgb(0,0,0)" fill-opacity="1"/>
+      </g>
+      <g id="circles.149">
+        <circle id="circles.149.1" cx="222.61" cy="219.36" r="4.32"/>
+      </g>
+      <g id="circles.150">
+        <circle id="circles.150.1" cx="240.57" cy="219.36" r="4.32"/>
+      </g>
+      <g id="circles.151">
+        <circle id="circles.151.1" cx="263.31" cy="219.36" r="4.32"/>
+      </g>
+      <g id="circles.152">
+        <circle id="circles.152.1" cx="269.29" cy="219.36" r="4.32"/>
+      </g>
+      <g id="circles.153">
+        <circle id="circles.153.1" cx="323.15" cy="219.36" r="4.32"/>
+      </g>
+      <g id="circles.154">
+        <circle id="circles.154.1" cx="382.99" cy="219.36" r="4.32"/>
+      </g>
+      <g id="circles.155">
+        <circle id="circles.155.1" cx="403.34" cy="219.36" r="4.32"/>
+      </g>
+      <g id="circles.156">
+        <circle id="circles.156.1" cx="456" cy="219.36" r="4.32"/>
+      </g>
+      <g id="circles.157">
+        <circle id="circles.157.1" cx="19.15" cy="210.24" r="4.32"/>
+      </g>
+      <g id="circles.158">
+        <circle id="circles.158.1" cx="49.07" cy="210.24" r="4.32"/>
+      </g>
+      <g id="circles.159">
+        <circle id="circles.159.1" cx="64.63" cy="210.24" r="4.32"/>
+      </g>
+      <g id="circles.160">
+        <circle id="circles.160.1" cx="98.14" cy="210.24" r="4.32"/>
+      </g>
+      <g id="circles.161">
+        <circle id="circles.161.1" cx="222.61" cy="210.24" r="4.32"/>
+      </g>
+      <g id="circles.162">
+        <circle id="circles.162.1" cx="240.57" cy="210.24" r="4.32"/>
+      </g>
+      <g id="circles.163">
+        <circle id="circles.163.1" cx="263.31" cy="210.24" r="4.32"/>
+      </g>
+      <g id="circles.164">
+        <circle id="circles.164.1" cx="269.29" cy="210.24" r="4.32"/>
+      </g>
+      <g id="circles.165">
+        <circle id="circles.165.1" cx="323.15" cy="210.24" r="4.32"/>
+      </g>
+      <g id="circles.166">
+        <circle id="circles.166.1" cx="382.99" cy="210.24" r="4.32" fill="rgb(0,0,0)" fill-opacity="1"/>
+      </g>
+      <g id="circles.167">
+        <circle id="circles.167.1" cx="403.34" cy="210.24" r="4.32"/>
+      </g>
+      <g id="circles.168">
+        <circle id="circles.168.1" cx="456" cy="210.24" r="4.32"/>
+      </g>
+      <g id="circles.169">
+        <circle id="circles.169.1" cx="19.15" cy="201.12" r="4.32" fill="rgb(0,0,0)" fill-opacity="1"/>
+      </g>
+      <g id="circles.170">
+        <circle id="circles.170.1" cx="49.07" cy="201.12" r="4.32"/>
+      </g>
+      <g id="circles.171">
+        <circle id="circles.171.1" cx="64.63" cy="201.12" r="4.32"/>
+      </g>
+      <g id="circles.172">
+        <circle id="circles.172.1" cx="98.14" cy="201.12" r="4.32"/>
+      </g>
+      <g id="circles.173">
+        <circle id="circles.173.1" cx="222.61" cy="201.12" r="4.32"/>
+      </g>
+      <g id="circles.174">
+        <circle id="circles.174.1" cx="240.57" cy="201.12" r="4.32"/>
+      </g>
+      <g id="circles.175">
+        <circle id="circles.175.1" cx="263.31" cy="201.12" r="4.32"/>
+      </g>
+      <g id="circles.176">
+        <circle id="circles.176.1" cx="269.29" cy="201.12" r="4.32"/>
+      </g>
+      <g id="circles.177">
+        <circle id="circles.177.1" cx="323.15" cy="201.12" r="4.32"/>
+      </g>
+      <g id="circles.178">
+        <circle id="circles.178.1" cx="382.99" cy="201.12" r="4.32"/>
+      </g>
+      <g id="circles.179">
+        <circle id="circles.179.1" cx="403.34" cy="201.12" r="4.32"/>
+      </g>
+      <g id="circles.180">
+        <circle id="circles.180.1" cx="456" cy="201.12" r="4.32"/>
+      </g>
+      <g id="circles.181">
+        <circle id="circles.181.1" cx="19.15" cy="192" r="4.32" fill="rgb(0,0,0)" fill-opacity="1"/>
+      </g>
+      <g id="circles.182">
+        <circle id="circles.182.1" cx="49.07" cy="192" r="4.32"/>
+      </g>
+      <g id="circles.183">
+        <circle id="circles.183.1" cx="64.63" cy="192" r="4.32"/>
+      </g>
+      <g id="circles.184">
+        <circle id="circles.184.1" cx="98.14" cy="192" r="4.32"/>
+      </g>
+      <g id="circles.185">
+        <circle id="circles.185.1" cx="222.61" cy="192" r="4.32" fill="rgb(0,0,0)" fill-opacity="1"/>
+      </g>
+      <g id="circles.186">
+        <circle id="circles.186.1" cx="240.57" cy="192" r="4.32"/>
+      </g>
+      <g id="circles.187">
+        <circle id="circles.187.1" cx="263.31" cy="192" r="4.32"/>
+      </g>
+      <g id="circles.188">
+        <circle id="circles.188.1" cx="269.29" cy="192" r="4.32"/>
+      </g>
+      <g id="circles.189">
+        <circle id="circles.189.1" cx="323.15" cy="192" r="4.32"/>
+      </g>
+      <g id="circles.190">
+        <circle id="circles.190.1" cx="382.99" cy="192" r="4.32"/>
+      </g>
+      <g id="circles.191">
+        <circle id="circles.191.1" cx="403.34" cy="192" r="4.32"/>
+      </g>
+      <g id="circles.192">
+        <circle id="circles.192.1" cx="456" cy="192" r="4.32"/>
+      </g>
+      <g id="font.1">
+        <g id="font.1.1" transform="translate(19.15, 348)" stroke-width="0.1">
+          <g id="font.1.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.1.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.1.1.tspan.1" dy="3.5" x="0">16</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.2">
+        <g id="font.2.1" transform="translate(49.07, 348)" stroke-width="0.1">
+          <g id="font.2.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.2.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.2.1.tspan.1" dy="3.5" x="0">41</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.3">
+        <g id="font.3.1" transform="translate(64.63, 348)" stroke-width="0.1">
+          <g id="font.3.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.3.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.3.1.tspan.1" dy="3.5" x="0">54</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.4">
+        <g id="font.4.1" transform="translate(98.14, 348)" stroke-width="0.1">
+          <g id="font.4.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.4.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.4.1.tspan.1" dy="3.5" x="0">82</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.5">
+        <g id="font.5.1" transform="translate(222.61, 348)" stroke-width="0.1">
+          <g id="font.5.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.5.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.5.1.tspan.1" dy="3.5" x="0">186</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.6">
+        <g id="font.6.1" transform="translate(240.57, 348)" stroke-width="0.1">
+          <g id="font.6.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.6.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.6.1.tspan.1" dy="3.5" x="0">201</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.7">
+        <g id="font.7.1" transform="translate(263.31, 348)" stroke-width="0.1">
+          <g id="font.7.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.7.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.7.1.tspan.1" dy="3.5" x="0">220</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.8">
+        <g id="font.8.1" transform="translate(269.29, 348)" stroke-width="0.1">
+          <g id="font.8.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.8.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.8.1.tspan.1" dy="3.5" x="0">225</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.9">
+        <g id="font.9.1" transform="translate(323.15, 348)" stroke-width="0.1">
+          <g id="font.9.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.9.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.9.1.tspan.1" dy="3.5" x="0">270</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.10">
+        <g id="font.10.1" transform="translate(382.99, 348)" stroke-width="0.1">
+          <g id="font.10.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.10.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.10.1.tspan.1" dy="3.5" x="0">320</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.11">
+        <g id="font.11.1" transform="translate(403.34, 348)" stroke-width="0.1">
+          <g id="font.11.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.11.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.11.1.tspan.1" dy="3.5" x="0">337</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.12">
+        <g id="font.12.1" transform="translate(456, 348)" stroke-width="0.1">
+          <g id="font.12.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.12.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.12.1.tspan.1" dy="3.5" x="0">381</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.13">
+        <g id="font.13.1" transform="translate(4.8, 284.16)" stroke-width="0.1">
+          <g id="font.13.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.13.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="15" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.13.1.tspan.1" dy="5.5" x="0">CpG</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

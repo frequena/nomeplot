@@ -1,0 +1,11 @@
+Instructions to use Sanger Bisulfite example data
+--------------------------------------------------
+
+Use your web browser to go to NOMePlot main screen at https://landeiralab.shinyapps.io/nomeplot/
+
+1. Click on "Sanger sequencing" on the left panel.
+2. Click on "Bisulfite treated only DNA" on the left panel.
+3. Click on "Browse" on the "Reference genomic sequence" box and upload the file "Oct4-Reference-Genomic.txt" to visualize an example of DNA methylation of an active promoter in mESCs or the file "Myf5-Reference-Genomic.txt" to analyze an inactive promoter methylation.
+4. Click on "Browse" on the "Bisulfite-treated sequences" box and upload the sixteen Oct4 bisulfite sequences or the twelve Myf5 bisulfite sequences.
+5. Lollipop graphic, heatmap and linechart analysis should already be visible on the right panel. You can personalized your analysis by changing parameters in the "Arrange sequences" and "Personalize lollipop graphic" panels. 
+6. Click on "Download Bisulfite analysis", " Download Lollipop graphic (.svg)" and "Download technical report" to obtain analysis files.

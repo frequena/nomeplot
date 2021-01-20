@@ -1,0 +1,18 @@
+---
+title: "NOMePlot - A Webtool for the analysis of NOMe data"
+subtitle: "NOMe-seq report"
+date: "`r Sys.Date()`"
+output:
+  rmarkdown::html_document:
+    theme: lumen
+---
+### 1. DNA methylation of cell population.
+
+
+```{r, echo= FALSE, , fig.align = "center",  fig.height=4, fig.width=7}
+graphics_gw(binary_gpc()[[1]], TRUE)
+```
+
+### Information
+#### - Values used in these graphics are provided in the attached information.csv files.
+#### - You can download every graphic as a .png file with right-click and "Save image as..."

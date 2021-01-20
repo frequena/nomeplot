@@ -1,0 +1,27 @@
+---
+title: "NOMePlot - A Webtool for the analysis of NOMe data"
+subtitle: "Tecnical report"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    toc: true
+    highlight: github
+graphics: yes
+---
+
+## 1. Methylation of CpG sites 
+## 2. Methylation/Unmethylation of GpG sites 
+
+
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

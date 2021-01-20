@@ -1,0 +1,32 @@
+---
+title: "NOMePlot - A Webtool for the analysis of NOMe data"
+subtitle: "NOMe report"
+date: "`r Sys.Date()`"
+output:
+  rmarkdown::html_document:
+    theme: lumen
+---
+### 1. DNA methylation of cell population.
+```{r, echo= FALSE, , fig.align = "center", fig.height=4, fig.width=5}
+nucleoplot_plot5_bi()
+
+```
+
+
+### Information
+#### - Values used in these graphics are provided in the attached information.csv files.
+#### - You can download every graphic as a .png file with right-click and "Save image as..."
+
+### 2. DNA methylation of individual cells (Line Chart).
+
+```{r, echo= FALSE, , fig.align = "center",  fig.height=6, fig.width=10, comment = NA, message=FALSE}
+plot_window_graphic_bi()
+
+```
+
+### 3. DNA methylation of individual cells (Heatmap).
+
+```{r, echo= FALSE, , fig.align = "center",  fig.height=6, fig.width=10, comment = NA, message=FALSE}
+heatmap_window_graphic_bi()
+
+```

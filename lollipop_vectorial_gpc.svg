@@ -1,0 +1,1797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480px" height="480px" viewBox="0 0 480 480" version="1.1">
+  <metadata xmlns:gridsvg="http://www.stat.auckland.ac.nz/~paul/R/gridSVG/">
+    <gridsvg:generator name="gridSVG" version="1.5-1" time="2019-11-05 10:35:31"/>
+    <gridsvg:argument name="name" value="lollipop_vectorial_gpc.svg"/>
+    <gridsvg:argument name="exportCoords" value="none"/>
+    <gridsvg:argument name="exportMappings" value="none"/>
+    <gridsvg:argument name="exportJS" value="none"/>
+    <gridsvg:argument name="res" value="72"/>
+    <gridsvg:argument name="prefix" value=""/>
+    <gridsvg:argument name="addClasses" value="FALSE"/>
+    <gridsvg:argument name="indent" value="TRUE"/>
+    <gridsvg:argument name="htmlWrapper" value="FALSE"/>
+    <gridsvg:argument name="usePaths" value="vpPaths"/>
+    <gridsvg:argument name="uniqueNames" value="TRUE"/>
+    <gridsvg:separator name="id.sep" value="."/>
+    <gridsvg:separator name="gPath.sep" value="::"/>
+    <gridsvg:separator name="vpPath.sep" value="::"/>
+  </metadata>
+  <g transform="translate(0, 480) scale(1, -1)">
+    <g id="gridSVG" fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" font-size="12" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" fill-opacity="1" font-weight="normal" font-style="normal">
+      <g id="circles.1">
+        <circle id="circles.1.1" cx="123.07" cy="23.52" r="3.84"/>
+      </g>
+      <g id="circles.2">
+        <circle id="circles.2.1" cx="127.66" cy="23.52" r="3.84"/>
+      </g>
+      <g id="circles.3">
+        <circle id="circles.3.1" cx="130.88" cy="23.52" r="3.84"/>
+      </g>
+      <g id="circles.4">
+        <circle id="circles.4.1" cx="135.01" cy="23.52" r="3.84"/>
+      </g>
+      <g id="circles.5">
+        <circle id="circles.5.1" cx="137.31" cy="23.52" r="3.84"/>
+      </g>
+      <g id="circles.6">
+        <circle id="circles.6.1" cx="140.98" cy="23.52" r="3.84"/>
+      </g>
+      <g id="circles.7">
+        <circle id="circles.7.1" cx="148.33" cy="23.52" r="3.84"/>
+      </g>
+      <g id="circles.8">
+        <circle id="circles.8.1" cx="150.16" cy="23.52" r="3.84"/>
+      </g>
+      <g id="circles.9">
+        <circle id="circles.9.1" cx="153.38" cy="23.52" r="3.84"/>
+      </g>
+      <g id="circles.10">
+        <circle id="circles.10.1" cx="156.13" cy="23.52" r="3.84"/>
+      </g>
+      <g id="circles.11">
+        <circle id="circles.11.1" cx="157.97" cy="23.52" r="3.84"/>
+      </g>
+      <g id="circles.12">
+        <circle id="circles.12.1" cx="168.07" cy="23.52" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.13">
+        <circle id="circles.13.1" cx="369.21" cy="32.64" r="3.84"/>
+      </g>
+      <g id="circles.14">
+        <circle id="circles.14.1" cx="379.31" cy="32.64" r="3.84"/>
+      </g>
+      <g id="circles.15">
+        <circle id="circles.15.1" cx="383.44" cy="32.64" r="3.84"/>
+      </g>
+      <g id="circles.16">
+        <circle id="circles.16.1" cx="411" cy="32.64" r="3.84"/>
+      </g>
+      <g id="circles.17">
+        <circle id="circles.17.1" cx="416.05" cy="32.64" r="3.84"/>
+      </g>
+      <g id="circles.18">
+        <circle id="circles.18.1" cx="422.48" cy="32.64" r="3.84"/>
+      </g>
+      <g id="circles.19">
+        <circle id="circles.19.1" cx="426.15" cy="32.64" r="3.84"/>
+      </g>
+      <g id="circles.20">
+        <circle id="circles.20.1" cx="428.91" cy="32.64" r="3.84"/>
+      </g>
+      <g id="circles.21">
+        <circle id="circles.21.1" cx="433.96" cy="32.64" r="3.84"/>
+      </g>
+      <g id="circles.22">
+        <circle id="circles.22.1" cx="32.6" cy="41.76" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.23">
+        <circle id="circles.23.1" cx="39.49" cy="41.76" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.24">
+        <circle id="circles.24.1" cx="42.25" cy="41.76" r="3.84"/>
+      </g>
+      <g id="circles.25">
+        <circle id="circles.25.1" cx="54.65" cy="41.76" r="3.84"/>
+      </g>
+      <g id="circles.26">
+        <circle id="circles.26.1" cx="59.7" cy="41.76" r="3.84"/>
+      </g>
+      <g id="circles.27">
+        <circle id="circles.27.1" cx="62.45" cy="41.76" r="3.84"/>
+      </g>
+      <g id="circles.28">
+        <circle id="circles.28.1" cx="64.75" cy="41.76" r="3.84"/>
+      </g>
+      <g id="circles.29">
+        <circle id="circles.29.1" cx="68.88" cy="41.76" r="3.84"/>
+      </g>
+      <g id="circles.30">
+        <circle id="circles.30.1" cx="71.18" cy="41.76" r="3.84"/>
+      </g>
+      <g id="circles.31">
+        <circle id="circles.31.1" cx="72.56" cy="41.76" r="3.84"/>
+      </g>
+      <g id="circles.32">
+        <circle id="circles.32.1" cx="343.95" cy="50.88" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.33">
+        <circle id="circles.33.1" cx="346.25" cy="50.88" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.34">
+        <circle id="circles.34.1" cx="350.84" cy="50.88" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.35">
+        <circle id="circles.35.1" cx="354.51" cy="50.88" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.36">
+        <circle id="circles.36.1" cx="355.89" cy="50.88" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.37">
+        <circle id="circles.37.1" cx="358.19" cy="50.88" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.38">
+        <circle id="circles.38.1" cx="369.21" cy="50.88" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.39">
+        <circle id="circles.39.1" cx="379.31" cy="50.88" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.40">
+        <circle id="circles.40.1" cx="383.44" cy="50.88" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.41">
+        <circle id="circles.41.1" cx="411" cy="50.88" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.42">
+        <circle id="circles.42.1" cx="369.21" cy="60" r="3.84"/>
+      </g>
+      <g id="circles.43">
+        <circle id="circles.43.1" cx="379.31" cy="60" r="3.84"/>
+      </g>
+      <g id="circles.44">
+        <circle id="circles.44.1" cx="383.44" cy="60" r="3.84"/>
+      </g>
+      <g id="circles.45">
+        <circle id="circles.45.1" cx="411" cy="60" r="3.84"/>
+      </g>
+      <g id="circles.46">
+        <circle id="circles.46.1" cx="416.05" cy="60" r="3.84"/>
+      </g>
+      <g id="circles.47">
+        <circle id="circles.47.1" cx="422.48" cy="60" r="3.84"/>
+      </g>
+      <g id="circles.48">
+        <circle id="circles.48.1" cx="426.15" cy="60" r="3.84"/>
+      </g>
+      <g id="circles.49">
+        <circle id="circles.49.1" cx="428.91" cy="60" r="3.84"/>
+      </g>
+      <g id="circles.50">
+        <circle id="circles.50.1" cx="433.96" cy="60" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.51">
+        <circle id="circles.51.1" cx="437.17" cy="60" r="3.84"/>
+      </g>
+      <g id="circles.52">
+        <circle id="circles.52.1" cx="441.31" cy="60" r="3.84"/>
+      </g>
+      <g id="circles.53">
+        <circle id="circles.53.1" cx="274.61" cy="69.12" r="3.84"/>
+      </g>
+      <g id="circles.54">
+        <circle id="circles.54.1" cx="282.88" cy="69.12" r="3.84"/>
+      </g>
+      <g id="circles.55">
+        <circle id="circles.55.1" cx="285.63" cy="69.12" r="3.84"/>
+      </g>
+      <g id="circles.56">
+        <circle id="circles.56.1" cx="309.97" cy="69.12" r="3.84"/>
+      </g>
+      <g id="circles.57">
+        <circle id="circles.57.1" cx="317.32" cy="69.12" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.58">
+        <circle id="circles.58.1" cx="320.53" cy="69.12" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.59">
+        <circle id="circles.59.1" cx="326.04" cy="69.12" r="3.84"/>
+      </g>
+      <g id="circles.60">
+        <circle id="circles.60.1" cx="274.61" cy="78.24" r="3.84"/>
+      </g>
+      <g id="circles.61">
+        <circle id="circles.61.1" cx="282.88" cy="78.24" r="3.84"/>
+      </g>
+      <g id="circles.62">
+        <circle id="circles.62.1" cx="285.63" cy="78.24" r="3.84"/>
+      </g>
+      <g id="circles.63">
+        <circle id="circles.63.1" cx="309.97" cy="78.24" r="3.84"/>
+      </g>
+      <g id="circles.64">
+        <circle id="circles.64.1" cx="317.32" cy="78.24" r="3.84"/>
+      </g>
+      <g id="circles.65">
+        <circle id="circles.65.1" cx="90.92" cy="87.36" r="3.84"/>
+      </g>
+      <g id="circles.66">
+        <circle id="circles.66.1" cx="100.11" cy="87.36" r="3.84"/>
+      </g>
+      <g id="circles.67">
+        <circle id="circles.67.1" cx="112.97" cy="87.36" r="3.84"/>
+      </g>
+      <g id="circles.68">
+        <circle id="circles.68.1" cx="114.34" cy="87.36" r="3.84"/>
+      </g>
+      <g id="circles.69">
+        <circle id="circles.69.1" cx="116.64" cy="87.36" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.70">
+        <circle id="circles.70.1" cx="123.07" cy="87.36" r="3.84"/>
+      </g>
+      <g id="circles.71">
+        <circle id="circles.71.1" cx="127.66" cy="87.36" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.72">
+        <circle id="circles.72.1" cx="130.88" cy="87.36" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.73">
+        <circle id="circles.73.1" cx="135.01" cy="87.36" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.74">
+        <circle id="circles.74.1" cx="332.47" cy="96.48" r="3.84"/>
+      </g>
+      <g id="circles.75">
+        <circle id="circles.75.1" cx="334.31" cy="96.48" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.76">
+        <circle id="circles.76.1" cx="341.66" cy="96.48" r="3.84"/>
+      </g>
+      <g id="circles.77">
+        <circle id="circles.77.1" cx="343.95" cy="96.48" r="3.84"/>
+      </g>
+      <g id="circles.78">
+        <circle id="circles.78.1" cx="346.25" cy="96.48" r="3.84"/>
+      </g>
+      <g id="circles.79">
+        <circle id="circles.79.1" cx="350.84" cy="96.48" r="3.84"/>
+      </g>
+      <g id="circles.80">
+        <circle id="circles.80.1" cx="354.51" cy="96.48" r="3.84"/>
+      </g>
+      <g id="circles.81">
+        <circle id="circles.81.1" cx="355.89" cy="96.48" r="3.84"/>
+      </g>
+      <g id="circles.82">
+        <circle id="circles.82.1" cx="358.19" cy="96.48" r="3.84"/>
+      </g>
+      <g id="circles.83">
+        <circle id="circles.83.1" cx="369.21" cy="96.48" r="3.84"/>
+      </g>
+      <g id="circles.84">
+        <circle id="circles.84.1" cx="379.31" cy="96.48" r="3.84"/>
+      </g>
+      <g id="circles.85">
+        <circle id="circles.85.1" cx="383.44" cy="96.48" r="3.84"/>
+      </g>
+      <g id="circles.86">
+        <circle id="circles.86.1" cx="343.95" cy="105.6" r="3.84"/>
+      </g>
+      <g id="circles.87">
+        <circle id="circles.87.1" cx="346.25" cy="105.6" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.88">
+        <circle id="circles.88.1" cx="350.84" cy="105.6" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.89">
+        <circle id="circles.89.1" cx="354.51" cy="105.6" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.90">
+        <circle id="circles.90.1" cx="355.89" cy="105.6" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.91">
+        <circle id="circles.91.1" cx="358.19" cy="105.6" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.92">
+        <circle id="circles.92.1" cx="369.21" cy="105.6" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.93">
+        <circle id="circles.93.1" cx="379.31" cy="105.6" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.94">
+        <circle id="circles.94.1" cx="383.44" cy="105.6" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.95">
+        <circle id="circles.95.1" cx="411" cy="105.6" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.96">
+        <circle id="circles.96.1" cx="157.97" cy="114.72" r="3.84"/>
+      </g>
+      <g id="circles.97">
+        <circle id="circles.97.1" cx="168.07" cy="114.72" r="3.84"/>
+      </g>
+      <g id="circles.98">
+        <circle id="circles.98.1" cx="173.12" cy="114.72" r="3.84"/>
+      </g>
+      <g id="circles.99">
+        <circle id="circles.99.1" cx="184.15" cy="114.72" r="3.84"/>
+      </g>
+      <g id="circles.100">
+        <circle id="circles.100.1" cx="188.74" cy="114.72" r="3.84"/>
+      </g>
+      <g id="circles.101">
+        <circle id="circles.101.1" cx="193.33" cy="114.72" r="3.84"/>
+      </g>
+      <g id="circles.102">
+        <circle id="circles.102.1" cx="196.54" cy="114.72" r="3.84"/>
+      </g>
+      <g id="circles.103">
+        <circle id="circles.103.1" cx="203.43" cy="114.72" r="3.84"/>
+      </g>
+      <g id="circles.104">
+        <circle id="circles.104.1" cx="123.07" cy="123.84" r="3.84"/>
+      </g>
+      <g id="circles.105">
+        <circle id="circles.105.1" cx="127.66" cy="123.84" r="3.84"/>
+      </g>
+      <g id="circles.106">
+        <circle id="circles.106.1" cx="130.88" cy="123.84" r="3.84"/>
+      </g>
+      <g id="circles.107">
+        <circle id="circles.107.1" cx="135.01" cy="123.84" r="3.84"/>
+      </g>
+      <g id="circles.108">
+        <circle id="circles.108.1" cx="137.31" cy="123.84" r="3.84"/>
+      </g>
+      <g id="circles.109">
+        <circle id="circles.109.1" cx="140.98" cy="123.84" r="3.84"/>
+      </g>
+      <g id="circles.110">
+        <circle id="circles.110.1" cx="148.33" cy="123.84" r="3.84"/>
+      </g>
+      <g id="circles.111">
+        <circle id="circles.111.1" cx="150.16" cy="123.84" r="3.84"/>
+      </g>
+      <g id="circles.112">
+        <circle id="circles.112.1" cx="153.38" cy="123.84" r="3.84"/>
+      </g>
+      <g id="circles.113">
+        <circle id="circles.113.1" cx="156.13" cy="123.84" r="3.84"/>
+      </g>
+      <g id="circles.114">
+        <circle id="circles.114.1" cx="157.97" cy="123.84" r="3.84"/>
+      </g>
+      <g id="circles.115">
+        <circle id="circles.115.1" cx="168.07" cy="123.84" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.116">
+        <circle id="circles.116.1" cx="274.61" cy="132.96" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.117">
+        <circle id="circles.117.1" cx="282.88" cy="132.96" r="3.84"/>
+      </g>
+      <g id="circles.118">
+        <circle id="circles.118.1" cx="285.63" cy="132.96" r="3.84"/>
+      </g>
+      <g id="circles.119">
+        <circle id="circles.119.1" cx="309.97" cy="132.96" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.120">
+        <circle id="circles.120.1" cx="317.32" cy="132.96" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.121">
+        <circle id="circles.121.1" cx="261.75" cy="142.08" r="3.84"/>
+      </g>
+      <g id="circles.122">
+        <circle id="circles.122.1" cx="264.05" cy="142.08" r="3.84"/>
+      </g>
+      <g id="circles.123">
+        <circle id="circles.123.1" cx="274.61" cy="142.08" r="3.84"/>
+      </g>
+      <g id="circles.124">
+        <circle id="circles.124.1" cx="282.88" cy="142.08" r="3.84"/>
+      </g>
+      <g id="circles.125">
+        <circle id="circles.125.1" cx="285.63" cy="142.08" r="3.84"/>
+      </g>
+      <g id="circles.126">
+        <circle id="circles.126.1" cx="193.33" cy="151.2" r="3.84"/>
+      </g>
+      <g id="circles.127">
+        <circle id="circles.127.1" cx="196.54" cy="151.2" r="3.84"/>
+      </g>
+      <g id="circles.128">
+        <circle id="circles.128.1" cx="203.43" cy="151.2" r="3.84"/>
+      </g>
+      <g id="circles.129">
+        <circle id="circles.129.1" cx="205.73" cy="151.2" r="3.84"/>
+      </g>
+      <g id="circles.130">
+        <circle id="circles.130.1" cx="209.86" cy="151.2" r="3.84"/>
+      </g>
+      <g id="circles.131">
+        <circle id="circles.131.1" cx="222.26" cy="151.2" r="3.84"/>
+      </g>
+      <g id="circles.132">
+        <circle id="circles.132.1" cx="236.5" cy="151.2" r="3.84"/>
+      </g>
+      <g id="circles.133">
+        <circle id="circles.133.1" cx="237.87" cy="151.2" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.134">
+        <circle id="circles.134.1" cx="242.47" cy="151.2" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.135">
+        <circle id="circles.135.1" cx="244.76" cy="151.2" r="3.84"/>
+      </g>
+      <g id="circles.136">
+        <circle id="circles.136.1" cx="274.61" cy="160.32" r="3.84"/>
+      </g>
+      <g id="circles.137">
+        <circle id="circles.137.1" cx="282.88" cy="160.32" r="3.84"/>
+      </g>
+      <g id="circles.138">
+        <circle id="circles.138.1" cx="285.63" cy="160.32" r="3.84"/>
+      </g>
+      <g id="circles.139">
+        <circle id="circles.139.1" cx="309.97" cy="160.32" r="3.84"/>
+      </g>
+      <g id="circles.140">
+        <circle id="circles.140.1" cx="317.32" cy="160.32" r="3.84"/>
+      </g>
+      <g id="circles.141">
+        <circle id="circles.141.1" cx="274.61" cy="169.44" r="3.84"/>
+      </g>
+      <g id="circles.142">
+        <circle id="circles.142.1" cx="282.88" cy="169.44" r="3.84"/>
+      </g>
+      <g id="circles.143">
+        <circle id="circles.143.1" cx="285.63" cy="169.44" r="3.84"/>
+      </g>
+      <g id="circles.144">
+        <circle id="circles.144.1" cx="309.97" cy="169.44" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.145">
+        <circle id="circles.145.1" cx="332.47" cy="178.56" r="3.84"/>
+      </g>
+      <g id="circles.146">
+        <circle id="circles.146.1" cx="334.31" cy="178.56" r="3.84"/>
+      </g>
+      <g id="circles.147">
+        <circle id="circles.147.1" cx="341.66" cy="178.56" r="3.84"/>
+      </g>
+      <g id="circles.148">
+        <circle id="circles.148.1" cx="343.95" cy="178.56" r="3.84"/>
+      </g>
+      <g id="circles.149">
+        <circle id="circles.149.1" cx="346.25" cy="178.56" r="3.84"/>
+      </g>
+      <g id="circles.150">
+        <circle id="circles.150.1" cx="350.84" cy="178.56" r="3.84"/>
+      </g>
+      <g id="circles.151">
+        <circle id="circles.151.1" cx="354.51" cy="178.56" r="3.84"/>
+      </g>
+      <g id="circles.152">
+        <circle id="circles.152.1" cx="355.89" cy="178.56" r="3.84"/>
+      </g>
+      <g id="circles.153">
+        <circle id="circles.153.1" cx="358.19" cy="178.56" r="3.84"/>
+      </g>
+      <g id="circles.154">
+        <circle id="circles.154.1" cx="369.21" cy="178.56" r="3.84"/>
+      </g>
+      <g id="circles.155">
+        <circle id="circles.155.1" cx="261.75" cy="187.68" r="3.84"/>
+      </g>
+      <g id="circles.156">
+        <circle id="circles.156.1" cx="264.05" cy="187.68" r="3.84"/>
+      </g>
+      <g id="circles.157">
+        <circle id="circles.157.1" cx="274.61" cy="187.68" r="3.84"/>
+      </g>
+      <g id="circles.158">
+        <circle id="circles.158.1" cx="282.88" cy="187.68" r="3.84"/>
+      </g>
+      <g id="circles.159">
+        <circle id="circles.159.1" cx="285.63" cy="187.68" r="3.84"/>
+      </g>
+      <g id="circles.160">
+        <circle id="circles.160.1" cx="90.92" cy="196.8" r="3.84"/>
+      </g>
+      <g id="circles.161">
+        <circle id="circles.161.1" cx="100.11" cy="196.8" r="3.84"/>
+      </g>
+      <g id="circles.162">
+        <circle id="circles.162.1" cx="112.97" cy="196.8" r="3.84"/>
+      </g>
+      <g id="circles.163">
+        <circle id="circles.163.1" cx="114.34" cy="196.8" r="3.84"/>
+      </g>
+      <g id="circles.164">
+        <circle id="circles.164.1" cx="116.64" cy="196.8" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.165">
+        <circle id="circles.165.1" cx="123.07" cy="196.8" r="3.84"/>
+      </g>
+      <g id="circles.166">
+        <circle id="circles.166.1" cx="127.66" cy="196.8" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.167">
+        <circle id="circles.167.1" cx="130.88" cy="196.8" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.168">
+        <circle id="circles.168.1" cx="135.01" cy="196.8" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.169">
+        <circle id="circles.169.1" cx="29.85" cy="205.92" r="3.84"/>
+      </g>
+      <g id="circles.170">
+        <circle id="circles.170.1" cx="32.6" cy="205.92" r="3.84"/>
+      </g>
+      <g id="circles.171">
+        <circle id="circles.171.1" cx="39.49" cy="205.92" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.172">
+        <circle id="circles.172.1" cx="42.25" cy="205.92" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.173">
+        <circle id="circles.173.1" cx="54.65" cy="205.92" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.174">
+        <circle id="circles.174.1" cx="59.7" cy="205.92" r="3.84"/>
+      </g>
+      <g id="circles.175">
+        <circle id="circles.175.1" cx="264.05" cy="215.04" r="3.84"/>
+      </g>
+      <g id="circles.176">
+        <circle id="circles.176.1" cx="274.61" cy="215.04" r="3.84"/>
+      </g>
+      <g id="circles.177">
+        <circle id="circles.177.1" cx="282.88" cy="215.04" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.178">
+        <circle id="circles.178.1" cx="341.66" cy="224.16" r="3.84"/>
+      </g>
+      <g id="circles.179">
+        <circle id="circles.179.1" cx="343.95" cy="224.16" r="3.84"/>
+      </g>
+      <g id="circles.180">
+        <circle id="circles.180.1" cx="346.25" cy="224.16" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.181">
+        <circle id="circles.181.1" cx="350.84" cy="224.16" r="3.84"/>
+      </g>
+      <g id="circles.182">
+        <circle id="circles.182.1" cx="354.51" cy="224.16" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.183">
+        <circle id="circles.183.1" cx="355.89" cy="224.16" r="3.84"/>
+      </g>
+      <g id="circles.184">
+        <circle id="circles.184.1" cx="358.19" cy="224.16" r="3.84"/>
+      </g>
+      <g id="circles.185">
+        <circle id="circles.185.1" cx="369.21" cy="224.16" r="3.84"/>
+      </g>
+      <g id="circles.186">
+        <circle id="circles.186.1" cx="379.31" cy="224.16" r="3.84"/>
+      </g>
+      <g id="circles.187">
+        <circle id="circles.187.1" cx="383.44" cy="224.16" r="3.84"/>
+      </g>
+      <g id="circles.188">
+        <circle id="circles.188.1" cx="411" cy="224.16" r="3.84"/>
+      </g>
+      <g id="circles.189">
+        <circle id="circles.189.1" cx="332.47" cy="233.28" r="3.84"/>
+      </g>
+      <g id="circles.190">
+        <circle id="circles.190.1" cx="334.31" cy="233.28" r="3.84"/>
+      </g>
+      <g id="circles.191">
+        <circle id="circles.191.1" cx="341.66" cy="233.28" r="3.84"/>
+      </g>
+      <g id="circles.192">
+        <circle id="circles.192.1" cx="343.95" cy="233.28" r="3.84"/>
+      </g>
+      <g id="circles.193">
+        <circle id="circles.193.1" cx="346.25" cy="233.28" r="3.84"/>
+      </g>
+      <g id="circles.194">
+        <circle id="circles.194.1" cx="350.84" cy="233.28" r="3.84"/>
+      </g>
+      <g id="circles.195">
+        <circle id="circles.195.1" cx="354.51" cy="233.28" r="3.84"/>
+      </g>
+      <g id="circles.196">
+        <circle id="circles.196.1" cx="355.89" cy="233.28" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.197">
+        <circle id="circles.197.1" cx="358.19" cy="233.28" r="3.84"/>
+      </g>
+      <g id="circles.198">
+        <circle id="circles.198.1" cx="369.21" cy="233.28" r="3.84"/>
+      </g>
+      <g id="circles.199">
+        <circle id="circles.199.1" cx="379.31" cy="233.28" r="3.84"/>
+      </g>
+      <g id="circles.200">
+        <circle id="circles.200.1" cx="383.44" cy="233.28" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.201">
+        <circle id="circles.201.1" cx="332.47" cy="242.4" r="3.84"/>
+      </g>
+      <g id="circles.202">
+        <circle id="circles.202.1" cx="334.31" cy="242.4" r="3.84"/>
+      </g>
+      <g id="circles.203">
+        <circle id="circles.203.1" cx="341.66" cy="242.4" r="3.84"/>
+      </g>
+      <g id="circles.204">
+        <circle id="circles.204.1" cx="343.95" cy="242.4" r="3.84"/>
+      </g>
+      <g id="circles.205">
+        <circle id="circles.205.1" cx="346.25" cy="242.4" r="3.84"/>
+      </g>
+      <g id="circles.206">
+        <circle id="circles.206.1" cx="350.84" cy="242.4" r="3.84"/>
+      </g>
+      <g id="circles.207">
+        <circle id="circles.207.1" cx="354.51" cy="242.4" r="3.84"/>
+      </g>
+      <g id="circles.208">
+        <circle id="circles.208.1" cx="355.89" cy="242.4" r="3.84"/>
+      </g>
+      <g id="circles.209">
+        <circle id="circles.209.1" cx="358.19" cy="242.4" r="3.84"/>
+      </g>
+      <g id="circles.210">
+        <circle id="circles.210.1" cx="369.21" cy="242.4" r="3.84"/>
+      </g>
+      <g id="circles.211">
+        <circle id="circles.211.1" cx="379.31" cy="242.4" r="3.84"/>
+      </g>
+      <g id="circles.212">
+        <circle id="circles.212.1" cx="383.44" cy="242.4" r="3.84"/>
+      </g>
+      <g id="circles.213">
+        <circle id="circles.213.1" cx="123.07" cy="251.52" r="3.84"/>
+      </g>
+      <g id="circles.214">
+        <circle id="circles.214.1" cx="127.66" cy="251.52" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.215">
+        <circle id="circles.215.1" cx="130.88" cy="251.52" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.216">
+        <circle id="circles.216.1" cx="135.01" cy="251.52" r="3.84"/>
+      </g>
+      <g id="circles.217">
+        <circle id="circles.217.1" cx="137.31" cy="251.52" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.218">
+        <circle id="circles.218.1" cx="140.98" cy="251.52" r="3.84"/>
+      </g>
+      <g id="circles.219">
+        <circle id="circles.219.1" cx="148.33" cy="251.52" r="3.84"/>
+      </g>
+      <g id="circles.220">
+        <circle id="circles.220.1" cx="150.16" cy="251.52" r="3.84"/>
+      </g>
+      <g id="circles.221">
+        <circle id="circles.221.1" cx="153.38" cy="251.52" r="3.84"/>
+      </g>
+      <g id="circles.222">
+        <circle id="circles.222.1" cx="156.13" cy="251.52" r="3.84"/>
+      </g>
+      <g id="circles.223">
+        <circle id="circles.223.1" cx="157.97" cy="251.52" r="3.84"/>
+      </g>
+      <g id="circles.224">
+        <circle id="circles.224.1" cx="168.07" cy="251.52" r="3.84"/>
+      </g>
+      <g id="circles.225">
+        <circle id="circles.225.1" cx="274.61" cy="260.64" r="3.84"/>
+      </g>
+      <g id="circles.226">
+        <circle id="circles.226.1" cx="282.88" cy="260.64" r="3.84"/>
+      </g>
+      <g id="circles.227">
+        <circle id="circles.227.1" cx="285.63" cy="260.64" r="3.84"/>
+      </g>
+      <g id="circles.228">
+        <circle id="circles.228.1" cx="309.97" cy="260.64" r="3.84"/>
+      </g>
+      <g id="circles.229">
+        <circle id="circles.229.1" cx="317.32" cy="260.64" r="3.84"/>
+      </g>
+      <g id="circles.230">
+        <circle id="circles.230.1" cx="320.53" cy="260.64" r="3.84"/>
+      </g>
+      <g id="circles.231">
+        <circle id="circles.231.1" cx="326.04" cy="260.64" r="3.84"/>
+      </g>
+      <g id="circles.232">
+        <circle id="circles.232.1" cx="274.61" cy="269.76" r="3.84"/>
+      </g>
+      <g id="circles.233">
+        <circle id="circles.233.1" cx="282.88" cy="269.76" r="3.84"/>
+      </g>
+      <g id="circles.234">
+        <circle id="circles.234.1" cx="285.63" cy="269.76" r="3.84"/>
+      </g>
+      <g id="circles.235">
+        <circle id="circles.235.1" cx="309.97" cy="269.76" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.236">
+        <circle id="circles.236.1" cx="341.66" cy="278.88" r="3.84"/>
+      </g>
+      <g id="circles.237">
+        <circle id="circles.237.1" cx="343.95" cy="278.88" r="3.84"/>
+      </g>
+      <g id="circles.238">
+        <circle id="circles.238.1" cx="346.25" cy="278.88" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.239">
+        <circle id="circles.239.1" cx="350.84" cy="278.88" r="3.84"/>
+      </g>
+      <g id="circles.240">
+        <circle id="circles.240.1" cx="354.51" cy="278.88" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.241">
+        <circle id="circles.241.1" cx="355.89" cy="278.88" r="3.84"/>
+      </g>
+      <g id="circles.242">
+        <circle id="circles.242.1" cx="358.19" cy="278.88" r="3.84"/>
+      </g>
+      <g id="circles.243">
+        <circle id="circles.243.1" cx="369.21" cy="278.88" r="3.84"/>
+      </g>
+      <g id="circles.244">
+        <circle id="circles.244.1" cx="379.31" cy="278.88" r="3.84"/>
+      </g>
+      <g id="circles.245">
+        <circle id="circles.245.1" cx="383.44" cy="278.88" r="3.84"/>
+      </g>
+      <g id="circles.246">
+        <circle id="circles.246.1" cx="411" cy="278.88" r="3.84"/>
+      </g>
+      <g id="circles.247">
+        <circle id="circles.247.1" cx="285.63" cy="288" r="3.84"/>
+      </g>
+      <g id="circles.248">
+        <circle id="circles.248.1" cx="309.97" cy="288" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.249">
+        <circle id="circles.249.1" cx="317.32" cy="288" r="3.84"/>
+      </g>
+      <g id="circles.250">
+        <circle id="circles.250.1" cx="320.53" cy="288" r="3.84"/>
+      </g>
+      <g id="circles.251">
+        <circle id="circles.251.1" cx="326.04" cy="288" r="3.84"/>
+      </g>
+      <g id="circles.252">
+        <circle id="circles.252.1" cx="332.47" cy="288" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.253">
+        <circle id="circles.253.1" cx="334.31" cy="288" r="3.84"/>
+      </g>
+      <g id="circles.254">
+        <circle id="circles.254.1" cx="379.31" cy="297.12" r="3.84"/>
+      </g>
+      <g id="circles.255">
+        <circle id="circles.255.1" cx="383.44" cy="297.12" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.256">
+        <circle id="circles.256.1" cx="411" cy="297.12" r="3.84"/>
+      </g>
+      <g id="circles.257">
+        <circle id="circles.257.1" cx="274.61" cy="306.24" r="3.84"/>
+      </g>
+      <g id="circles.258">
+        <circle id="circles.258.1" cx="282.88" cy="306.24" r="3.84"/>
+      </g>
+      <g id="circles.259">
+        <circle id="circles.259.1" cx="285.63" cy="306.24" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.260">
+        <circle id="circles.260.1" cx="309.97" cy="306.24" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.261">
+        <circle id="circles.261.1" cx="317.32" cy="306.24" r="3.84"/>
+      </g>
+      <g id="circles.262">
+        <circle id="circles.262.1" cx="282.88" cy="315.36" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.263">
+        <circle id="circles.263.1" cx="285.63" cy="315.36" r="3.84"/>
+      </g>
+      <g id="circles.264">
+        <circle id="circles.264.1" cx="309.97" cy="315.36" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.265">
+        <circle id="circles.265.1" cx="317.32" cy="315.36" r="3.84"/>
+      </g>
+      <g id="circles.266">
+        <circle id="circles.266.1" cx="320.53" cy="315.36" r="3.84"/>
+      </g>
+      <g id="circles.267">
+        <circle id="circles.267.1" cx="326.04" cy="315.36" r="3.84"/>
+      </g>
+      <g id="circles.268">
+        <circle id="circles.268.1" cx="332.47" cy="315.36" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.269">
+        <circle id="circles.269.1" cx="334.31" cy="315.36" r="3.84"/>
+      </g>
+      <g id="circles.270">
+        <circle id="circles.270.1" cx="341.66" cy="324.48" r="3.84"/>
+      </g>
+      <g id="circles.271">
+        <circle id="circles.271.1" cx="343.95" cy="324.48" r="3.84"/>
+      </g>
+      <g id="circles.272">
+        <circle id="circles.272.1" cx="346.25" cy="324.48" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.273">
+        <circle id="circles.273.1" cx="350.84" cy="324.48" r="3.84"/>
+      </g>
+      <g id="circles.274">
+        <circle id="circles.274.1" cx="354.51" cy="324.48" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.275">
+        <circle id="circles.275.1" cx="355.89" cy="324.48" r="3.84"/>
+      </g>
+      <g id="circles.276">
+        <circle id="circles.276.1" cx="358.19" cy="324.48" r="3.84"/>
+      </g>
+      <g id="circles.277">
+        <circle id="circles.277.1" cx="369.21" cy="324.48" r="3.84"/>
+      </g>
+      <g id="circles.278">
+        <circle id="circles.278.1" cx="379.31" cy="324.48" r="3.84"/>
+      </g>
+      <g id="circles.279">
+        <circle id="circles.279.1" cx="383.44" cy="324.48" r="3.84"/>
+      </g>
+      <g id="circles.280">
+        <circle id="circles.280.1" cx="411" cy="324.48" r="3.84"/>
+      </g>
+      <g id="circles.281">
+        <circle id="circles.281.1" cx="29.85" cy="333.6" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.282">
+        <circle id="circles.282.1" cx="32.6" cy="333.6" r="3.84"/>
+      </g>
+      <g id="circles.283">
+        <circle id="circles.283.1" cx="39.49" cy="333.6" r="3.84"/>
+      </g>
+      <g id="circles.284">
+        <circle id="circles.284.1" cx="42.25" cy="333.6" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.285">
+        <circle id="circles.285.1" cx="54.65" cy="333.6" r="3.84"/>
+      </g>
+      <g id="circles.286">
+        <circle id="circles.286.1" cx="59.7" cy="333.6" r="3.84"/>
+      </g>
+      <g id="circles.287">
+        <circle id="circles.287.1" cx="62.45" cy="333.6" r="3.84"/>
+      </g>
+      <g id="circles.288">
+        <circle id="circles.288.1" cx="203.43" cy="342.72" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.289">
+        <circle id="circles.289.1" cx="205.73" cy="342.72" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.290">
+        <circle id="circles.290.1" cx="209.86" cy="342.72" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.291">
+        <circle id="circles.291.1" cx="222.26" cy="342.72" r="3.84"/>
+      </g>
+      <g id="circles.292">
+        <circle id="circles.292.1" cx="236.5" cy="342.72" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.293">
+        <circle id="circles.293.1" cx="237.87" cy="342.72" r="3.84"/>
+      </g>
+      <g id="circles.294">
+        <circle id="circles.294.1" cx="242.47" cy="342.72" r="3.84"/>
+      </g>
+      <g id="circles.295">
+        <circle id="circles.295.1" cx="244.76" cy="342.72" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.296">
+        <circle id="circles.296.1" cx="29.85" cy="351.84" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.297">
+        <circle id="circles.297.1" cx="32.6" cy="351.84" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.298">
+        <circle id="circles.298.1" cx="39.49" cy="351.84" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.299">
+        <circle id="circles.299.1" cx="42.25" cy="351.84" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.300">
+        <circle id="circles.300.1" cx="54.65" cy="351.84" r="3.84"/>
+      </g>
+      <g id="circles.301">
+        <circle id="circles.301.1" cx="59.7" cy="351.84" r="3.84"/>
+      </g>
+      <g id="circles.302">
+        <circle id="circles.302.1" cx="62.45" cy="351.84" r="3.84"/>
+      </g>
+      <g id="circles.303">
+        <circle id="circles.303.1" cx="32.6" cy="360.96" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.304">
+        <circle id="circles.304.1" cx="39.49" cy="360.96" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.305">
+        <circle id="circles.305.1" cx="42.25" cy="360.96" r="3.84"/>
+      </g>
+      <g id="circles.306">
+        <circle id="circles.306.1" cx="54.65" cy="360.96" r="3.84"/>
+      </g>
+      <g id="circles.307">
+        <circle id="circles.307.1" cx="59.7" cy="360.96" r="3.84"/>
+      </g>
+      <g id="circles.308">
+        <circle id="circles.308.1" cx="62.45" cy="360.96" r="3.84"/>
+      </g>
+      <g id="circles.309">
+        <circle id="circles.309.1" cx="64.75" cy="360.96" r="3.84"/>
+      </g>
+      <g id="circles.310">
+        <circle id="circles.310.1" cx="68.88" cy="360.96" r="3.84"/>
+      </g>
+      <g id="circles.311">
+        <circle id="circles.311.1" cx="71.18" cy="360.96" r="3.84"/>
+      </g>
+      <g id="circles.312">
+        <circle id="circles.312.1" cx="72.56" cy="360.96" r="3.84"/>
+      </g>
+      <g id="circles.313">
+        <circle id="circles.313.1" cx="282.88" cy="370.08" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.314">
+        <circle id="circles.314.1" cx="285.63" cy="370.08" r="3.84"/>
+      </g>
+      <g id="circles.315">
+        <circle id="circles.315.1" cx="309.97" cy="370.08" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.316">
+        <circle id="circles.316.1" cx="317.32" cy="370.08" r="3.84"/>
+      </g>
+      <g id="circles.317">
+        <circle id="circles.317.1" cx="320.53" cy="370.08" r="3.84"/>
+      </g>
+      <g id="circles.318">
+        <circle id="circles.318.1" cx="326.04" cy="370.08" r="3.84"/>
+      </g>
+      <g id="circles.319">
+        <circle id="circles.319.1" cx="332.47" cy="370.08" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.320">
+        <circle id="circles.320.1" cx="334.31" cy="370.08" r="3.84"/>
+      </g>
+      <g id="circles.321">
+        <circle id="circles.321.1" cx="369.21" cy="379.2" r="3.84"/>
+      </g>
+      <g id="circles.322">
+        <circle id="circles.322.1" cx="379.31" cy="379.2" r="3.84"/>
+      </g>
+      <g id="circles.323">
+        <circle id="circles.323.1" cx="383.44" cy="379.2" r="3.84"/>
+      </g>
+      <g id="circles.324">
+        <circle id="circles.324.1" cx="411" cy="379.2" r="3.84"/>
+      </g>
+      <g id="circles.325">
+        <circle id="circles.325.1" cx="416.05" cy="379.2" r="3.84"/>
+      </g>
+      <g id="circles.326">
+        <circle id="circles.326.1" cx="422.48" cy="379.2" r="3.84"/>
+      </g>
+      <g id="circles.327">
+        <circle id="circles.327.1" cx="426.15" cy="379.2" r="3.84"/>
+      </g>
+      <g id="circles.328">
+        <circle id="circles.328.1" cx="428.91" cy="379.2" r="3.84"/>
+      </g>
+      <g id="circles.329">
+        <circle id="circles.329.1" cx="433.96" cy="379.2" r="3.84"/>
+      </g>
+      <g id="circles.330">
+        <circle id="circles.330.1" cx="437.17" cy="379.2" r="3.84"/>
+      </g>
+      <g id="circles.331">
+        <circle id="circles.331.1" cx="441.31" cy="379.2" r="3.84"/>
+      </g>
+      <g id="circles.332">
+        <circle id="circles.332.1" cx="369.21" cy="388.32" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.333">
+        <circle id="circles.333.1" cx="379.31" cy="388.32" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.334">
+        <circle id="circles.334.1" cx="383.44" cy="388.32" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.335">
+        <circle id="circles.335.1" cx="369.21" cy="397.44" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.336">
+        <circle id="circles.336.1" cx="379.31" cy="397.44" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.337">
+        <circle id="circles.337.1" cx="383.44" cy="397.44" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.338">
+        <circle id="circles.338.1" cx="10.56" cy="406.56" r="3.84"/>
+      </g>
+      <g id="circles.339">
+        <circle id="circles.339.1" cx="16.99" cy="406.56" r="3.84"/>
+      </g>
+      <g id="circles.340">
+        <circle id="circles.340.1" cx="29.85" cy="406.56" r="3.84"/>
+      </g>
+      <g id="circles.341">
+        <circle id="circles.341.1" cx="32.6" cy="406.56" r="3.84"/>
+      </g>
+      <g id="circles.342">
+        <circle id="circles.342.1" cx="39.49" cy="406.56" r="3.84"/>
+      </g>
+      <g id="circles.343">
+        <circle id="circles.343.1" cx="42.25" cy="406.56" r="3.84"/>
+      </g>
+      <g id="circles.344">
+        <circle id="circles.344.1" cx="379.31" cy="415.68" r="3.84"/>
+      </g>
+      <g id="circles.345">
+        <circle id="circles.345.1" cx="383.44" cy="415.68" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.346">
+        <circle id="circles.346.1" cx="411" cy="415.68" r="3.84"/>
+      </g>
+      <g id="circles.347">
+        <circle id="circles.347.1" cx="193.33" cy="424.8" r="3.84"/>
+      </g>
+      <g id="circles.348">
+        <circle id="circles.348.1" cx="196.54" cy="424.8" r="3.84"/>
+      </g>
+      <g id="circles.349">
+        <circle id="circles.349.1" cx="203.43" cy="424.8" r="3.84"/>
+      </g>
+      <g id="circles.350">
+        <circle id="circles.350.1" cx="205.73" cy="424.8" r="3.84"/>
+      </g>
+      <g id="circles.351">
+        <circle id="circles.351.1" cx="209.86" cy="424.8" r="3.84"/>
+      </g>
+      <g id="circles.352">
+        <circle id="circles.352.1" cx="222.26" cy="424.8" r="3.84" fill="rgb(0,0,255)" fill-opacity="1"/>
+      </g>
+      <g id="circles.353">
+        <circle id="circles.353.1" cx="236.5" cy="424.8" r="3.84"/>
+      </g>
+      <g id="circles.354">
+        <circle id="circles.354.1" cx="237.87" cy="424.8" r="3.84"/>
+      </g>
+      <g id="font.1">
+        <g id="font.1.1" transform="translate(3.21, 444)" stroke-width="0.1">
+          <g id="font.1.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.1.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.1.1.tspan.1" dy="3.5" x="0">5</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.2">
+        <g id="font.2.1" transform="translate(4.59, 444)" stroke-width="0.1">
+          <g id="font.2.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.2.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.2.1.tspan.1" dy="3.5" x="0">8</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.3">
+        <g id="font.3.1" transform="translate(10.56, 444)" stroke-width="0.1">
+          <g id="font.3.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.3.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.3.1.tspan.1" dy="3.5" x="0">21</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.4">
+        <g id="font.4.1" transform="translate(16.99, 444)" stroke-width="0.1">
+          <g id="font.4.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.4.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.4.1.tspan.1" dy="3.5" x="0">35</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.5">
+        <g id="font.5.1" transform="translate(29.85, 444)" stroke-width="0.1">
+          <g id="font.5.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.5.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.5.1.tspan.1" dy="3.5" x="0">63</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.6">
+        <g id="font.6.1" transform="translate(32.6, 444)" stroke-width="0.1">
+          <g id="font.6.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.6.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.6.1.tspan.1" dy="3.5" x="0">69</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.7">
+        <g id="font.7.1" transform="translate(39.49, 444)" stroke-width="0.1">
+          <g id="font.7.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.7.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.7.1.tspan.1" dy="3.5" x="0">84</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.8">
+        <g id="font.8.1" transform="translate(42.25, 444)" stroke-width="0.1">
+          <g id="font.8.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.8.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.8.1.tspan.1" dy="3.5" x="0">90</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.9">
+        <g id="font.9.1" transform="translate(54.65, 444)" stroke-width="0.1">
+          <g id="font.9.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.9.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.9.1.tspan.1" dy="3.5" x="0">117</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.10">
+        <g id="font.10.1" transform="translate(59.7, 444)" stroke-width="0.1">
+          <g id="font.10.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.10.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.10.1.tspan.1" dy="3.5" x="0">128</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.11">
+        <g id="font.11.1" transform="translate(62.45, 444)" stroke-width="0.1">
+          <g id="font.11.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.11.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.11.1.tspan.1" dy="3.5" x="0">134</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.12">
+        <g id="font.12.1" transform="translate(64.75, 444)" stroke-width="0.1">
+          <g id="font.12.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.12.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.12.1.tspan.1" dy="3.5" x="0">139</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.13">
+        <g id="font.13.1" transform="translate(68.88, 444)" stroke-width="0.1">
+          <g id="font.13.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.13.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.13.1.tspan.1" dy="3.5" x="0">148</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.14">
+        <g id="font.14.1" transform="translate(71.18, 444)" stroke-width="0.1">
+          <g id="font.14.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.14.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.14.1.tspan.1" dy="3.5" x="0">153</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.15">
+        <g id="font.15.1" transform="translate(72.56, 444)" stroke-width="0.1">
+          <g id="font.15.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.15.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.15.1.tspan.1" dy="3.5" x="0">156</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.16">
+        <g id="font.16.1" transform="translate(80.36, 444)" stroke-width="0.1">
+          <g id="font.16.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.16.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.16.1.tspan.1" dy="3.5" x="0">173</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.17">
+        <g id="font.17.1" transform="translate(82.2, 444)" stroke-width="0.1">
+          <g id="font.17.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.17.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.17.1.tspan.1" dy="3.5" x="0">177</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.18">
+        <g id="font.18.1" transform="translate(90.92, 444)" stroke-width="0.1">
+          <g id="font.18.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.18.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.18.1.tspan.1" dy="3.5" x="0">196</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.19">
+        <g id="font.19.1" transform="translate(100.11, 444)" stroke-width="0.1">
+          <g id="font.19.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.19.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.19.1.tspan.1" dy="3.5" x="0">216</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.20">
+        <g id="font.20.1" transform="translate(112.97, 444)" stroke-width="0.1">
+          <g id="font.20.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.20.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.20.1.tspan.1" dy="3.5" x="0">244</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.21">
+        <g id="font.21.1" transform="translate(114.34, 444)" stroke-width="0.1">
+          <g id="font.21.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.21.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.21.1.tspan.1" dy="3.5" x="0">247</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.22">
+        <g id="font.22.1" transform="translate(116.64, 444)" stroke-width="0.1">
+          <g id="font.22.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.22.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.22.1.tspan.1" dy="3.5" x="0">252</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.23">
+        <g id="font.23.1" transform="translate(123.07, 444)" stroke-width="0.1">
+          <g id="font.23.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.23.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.23.1.tspan.1" dy="3.5" x="0">266</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.24">
+        <g id="font.24.1" transform="translate(127.66, 444)" stroke-width="0.1">
+          <g id="font.24.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.24.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.24.1.tspan.1" dy="3.5" x="0">276</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.25">
+        <g id="font.25.1" transform="translate(130.88, 444)" stroke-width="0.1">
+          <g id="font.25.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.25.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.25.1.tspan.1" dy="3.5" x="0">283</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.26">
+        <g id="font.26.1" transform="translate(135.01, 444)" stroke-width="0.1">
+          <g id="font.26.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.26.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.26.1.tspan.1" dy="3.5" x="0">292</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.27">
+        <g id="font.27.1" transform="translate(137.31, 444)" stroke-width="0.1">
+          <g id="font.27.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.27.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.27.1.tspan.1" dy="3.5" x="0">297</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.28">
+        <g id="font.28.1" transform="translate(140.98, 444)" stroke-width="0.1">
+          <g id="font.28.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.28.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.28.1.tspan.1" dy="3.5" x="0">305</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.29">
+        <g id="font.29.1" transform="translate(148.33, 444)" stroke-width="0.1">
+          <g id="font.29.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.29.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.29.1.tspan.1" dy="3.5" x="0">321</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.30">
+        <g id="font.30.1" transform="translate(150.16, 444)" stroke-width="0.1">
+          <g id="font.30.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.30.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.30.1.tspan.1" dy="3.5" x="0">325</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.31">
+        <g id="font.31.1" transform="translate(153.38, 444)" stroke-width="0.1">
+          <g id="font.31.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.31.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.31.1.tspan.1" dy="3.5" x="0">332</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.32">
+        <g id="font.32.1" transform="translate(156.13, 444)" stroke-width="0.1">
+          <g id="font.32.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.32.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.32.1.tspan.1" dy="3.5" x="0">338</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.33">
+        <g id="font.33.1" transform="translate(157.97, 444)" stroke-width="0.1">
+          <g id="font.33.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.33.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.33.1.tspan.1" dy="3.5" x="0">342</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.34">
+        <g id="font.34.1" transform="translate(168.07, 444)" stroke-width="0.1">
+          <g id="font.34.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.34.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.34.1.tspan.1" dy="3.5" x="0">364</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.35">
+        <g id="font.35.1" transform="translate(173.12, 444)" stroke-width="0.1">
+          <g id="font.35.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.35.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.35.1.tspan.1" dy="3.5" x="0">375</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.36">
+        <g id="font.36.1" transform="translate(184.15, 444)" stroke-width="0.1">
+          <g id="font.36.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.36.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.36.1.tspan.1" dy="3.5" x="0">399</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.37">
+        <g id="font.37.1" transform="translate(188.74, 444)" stroke-width="0.1">
+          <g id="font.37.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.37.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.37.1.tspan.1" dy="3.5" x="0">409</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.38">
+        <g id="font.38.1" transform="translate(193.33, 444)" stroke-width="0.1">
+          <g id="font.38.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.38.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.38.1.tspan.1" dy="3.5" x="0">419</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.39">
+        <g id="font.39.1" transform="translate(196.54, 444)" stroke-width="0.1">
+          <g id="font.39.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.39.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.39.1.tspan.1" dy="3.5" x="0">426</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.40">
+        <g id="font.40.1" transform="translate(203.43, 444)" stroke-width="0.1">
+          <g id="font.40.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.40.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.40.1.tspan.1" dy="3.5" x="0">441</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.41">
+        <g id="font.41.1" transform="translate(205.73, 444)" stroke-width="0.1">
+          <g id="font.41.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.41.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.41.1.tspan.1" dy="3.5" x="0">446</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.42">
+        <g id="font.42.1" transform="translate(209.86, 444)" stroke-width="0.1">
+          <g id="font.42.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.42.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.42.1.tspan.1" dy="3.5" x="0">455</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.43">
+        <g id="font.43.1" transform="translate(222.26, 444)" stroke-width="0.1">
+          <g id="font.43.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.43.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.43.1.tspan.1" dy="3.5" x="0">482</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.44">
+        <g id="font.44.1" transform="translate(236.5, 444)" stroke-width="0.1">
+          <g id="font.44.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.44.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.44.1.tspan.1" dy="3.5" x="0">513</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.45">
+        <g id="font.45.1" transform="translate(237.87, 444)" stroke-width="0.1">
+          <g id="font.45.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.45.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.45.1.tspan.1" dy="3.5" x="0">516</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.46">
+        <g id="font.46.1" transform="translate(242.47, 444)" stroke-width="0.1">
+          <g id="font.46.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.46.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.46.1.tspan.1" dy="3.5" x="0">526</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.47">
+        <g id="font.47.1" transform="translate(244.76, 444)" stroke-width="0.1">
+          <g id="font.47.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.47.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.47.1.tspan.1" dy="3.5" x="0">531</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.48">
+        <g id="font.48.1" transform="translate(251.65, 444)" stroke-width="0.1">
+          <g id="font.48.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.48.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.48.1.tspan.1" dy="3.5" x="0">546</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.49">
+        <g id="font.49.1" transform="translate(261.75, 444)" stroke-width="0.1">
+          <g id="font.49.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.49.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.49.1.tspan.1" dy="3.5" x="0">568</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.50">
+        <g id="font.50.1" transform="translate(264.05, 444)" stroke-width="0.1">
+          <g id="font.50.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.50.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.50.1.tspan.1" dy="3.5" x="0">573</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.51">
+        <g id="font.51.1" transform="translate(274.61, 444)" stroke-width="0.1">
+          <g id="font.51.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.51.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.51.1.tspan.1" dy="3.5" x="0">596</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.52">
+        <g id="font.52.1" transform="translate(282.88, 444)" stroke-width="0.1">
+          <g id="font.52.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.52.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.52.1.tspan.1" dy="3.5" x="0">614</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.53">
+        <g id="font.53.1" transform="translate(285.63, 444)" stroke-width="0.1">
+          <g id="font.53.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.53.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.53.1.tspan.1" dy="3.5" x="0">620</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.54">
+        <g id="font.54.1" transform="translate(309.97, 444)" stroke-width="0.1">
+          <g id="font.54.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.54.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.54.1.tspan.1" dy="3.5" x="0">673</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.55">
+        <g id="font.55.1" transform="translate(317.32, 444)" stroke-width="0.1">
+          <g id="font.55.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.55.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.55.1.tspan.1" dy="3.5" x="0">689</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.56">
+        <g id="font.56.1" transform="translate(320.53, 444)" stroke-width="0.1">
+          <g id="font.56.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.56.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.56.1.tspan.1" dy="3.5" x="0">696</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.57">
+        <g id="font.57.1" transform="translate(326.04, 444)" stroke-width="0.1">
+          <g id="font.57.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.57.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.57.1.tspan.1" dy="3.5" x="0">708</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.58">
+        <g id="font.58.1" transform="translate(332.47, 444)" stroke-width="0.1">
+          <g id="font.58.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.58.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.58.1.tspan.1" dy="3.5" x="0">722</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.59">
+        <g id="font.59.1" transform="translate(334.31, 444)" stroke-width="0.1">
+          <g id="font.59.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.59.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.59.1.tspan.1" dy="3.5" x="0">726</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.60">
+        <g id="font.60.1" transform="translate(341.66, 444)" stroke-width="0.1">
+          <g id="font.60.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.60.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.60.1.tspan.1" dy="3.5" x="0">742</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.61">
+        <g id="font.61.1" transform="translate(343.95, 444)" stroke-width="0.1">
+          <g id="font.61.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.61.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.61.1.tspan.1" dy="3.5" x="0">747</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.62">
+        <g id="font.62.1" transform="translate(346.25, 444)" stroke-width="0.1">
+          <g id="font.62.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.62.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.62.1.tspan.1" dy="3.5" x="0">752</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.63">
+        <g id="font.63.1" transform="translate(350.84, 444)" stroke-width="0.1">
+          <g id="font.63.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.63.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.63.1.tspan.1" dy="3.5" x="0">762</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.64">
+        <g id="font.64.1" transform="translate(354.51, 444)" stroke-width="0.1">
+          <g id="font.64.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.64.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.64.1.tspan.1" dy="3.5" x="0">770</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.65">
+        <g id="font.65.1" transform="translate(355.89, 444)" stroke-width="0.1">
+          <g id="font.65.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.65.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.65.1.tspan.1" dy="3.5" x="0">773</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.66">
+        <g id="font.66.1" transform="translate(358.19, 444)" stroke-width="0.1">
+          <g id="font.66.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.66.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.66.1.tspan.1" dy="3.5" x="0">778</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.67">
+        <g id="font.67.1" transform="translate(369.21, 444)" stroke-width="0.1">
+          <g id="font.67.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.67.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.67.1.tspan.1" dy="3.5" x="0">802</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.68">
+        <g id="font.68.1" transform="translate(379.31, 444)" stroke-width="0.1">
+          <g id="font.68.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.68.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.68.1.tspan.1" dy="3.5" x="0">824</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.69">
+        <g id="font.69.1" transform="translate(383.44, 444)" stroke-width="0.1">
+          <g id="font.69.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.69.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.69.1.tspan.1" dy="3.5" x="0">833</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.70">
+        <g id="font.70.1" transform="translate(411, 444)" stroke-width="0.1">
+          <g id="font.70.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.70.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.70.1.tspan.1" dy="3.5" x="0">893</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.71">
+        <g id="font.71.1" transform="translate(416.05, 444)" stroke-width="0.1">
+          <g id="font.71.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.71.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.71.1.tspan.1" dy="3.5" x="0">904</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.72">
+        <g id="font.72.1" transform="translate(422.48, 444)" stroke-width="0.1">
+          <g id="font.72.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.72.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.72.1.tspan.1" dy="3.5" x="0">918</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.73">
+        <g id="font.73.1" transform="translate(426.15, 444)" stroke-width="0.1">
+          <g id="font.73.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.73.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.73.1.tspan.1" dy="3.5" x="0">926</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.74">
+        <g id="font.74.1" transform="translate(428.91, 444)" stroke-width="0.1">
+          <g id="font.74.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.74.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.74.1.tspan.1" dy="3.5" x="0">932</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.75">
+        <g id="font.75.1" transform="translate(433.96, 444)" stroke-width="0.1">
+          <g id="font.75.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.75.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.75.1.tspan.1" dy="3.5" x="0">943</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.76">
+        <g id="font.76.1" transform="translate(437.17, 444)" stroke-width="0.1">
+          <g id="font.76.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.76.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.76.1.tspan.1" dy="3.5" x="0">950</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.77">
+        <g id="font.77.1" transform="translate(441.31, 444)" stroke-width="0.1">
+          <g id="font.77.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.77.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.77.1.tspan.1" dy="3.5" x="0">959</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.78">
+        <g id="font.78.1" transform="translate(453.24, 444)" stroke-width="0.1">
+          <g id="font.78.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.78.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.78.1.tspan.1" dy="3.5" x="0">985</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="font.79">
+        <g id="font.79.1" transform="translate(456, 444)" stroke-width="0.1">
+          <g id="font.79.1.scale" transform="scale(1, -1)">
+            <text x="0" y="0" id="font.79.1.text" transform="rotate(-90)" text-anchor="middle" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" font-size="9" fill="rgb(0,0,0)" fill-opacity="1">
+              <tspan id="font.79.1.tspan.1" dy="3.5" x="0">991</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,115 @@
+---
+title: "Report - Nucleoplot"
+author: "User"
+date: Sys.Date()
+output:
+  rmarkdown::html_document:    
+    theme: cayman
+graphics: yes
+---
+```{r set-options, echo=FALSE, cache=FALSE}
+options(width = 120)
+```
+### 1. Input sequences.
+#### 1.1 Reference sequence.
+
+```{r, echo= FALSE}
+f_reference()$file_ref
+```
+
+#### 1.2 Problem sequences.
+
+```{r, echo= FALSE}
+f_problem()
+```
+
+### 2. CpG and GpC sites of reference sequence.
+
+#### 2.1 CpG sites
+
+```{r, echo= FALSE}
+f_reference()$CpGsites
+```
+
+#### 2.2 GpC sites
+
+```{r, echo= FALSE}
+f_reference()$GpCsites
+```
+
+
+### 3. Quality control.
+
+#### 3.1 Datatable information
+
+```{r, echo= FALSE}
+qc_sequences()[[1]]
+```
+
+#### 3.2 Quality control - sequences converted.
+
+```{r, echo= FALSE}
+qc_sequences()[[2]]
+```
+
+#### 3.3 Quality control - trimming sequences.
+
+```{r, echo= FALSE}
+choose_option()
+```
+
+
+### 4. Binaries datatables.
+
+#### 4.1 Endogenous methylation (CpG sites).
+
+```{r, echo= FALSE}
+align_sequences()$END
+```
+
+#### 5.1 Endogenous methylation (GpC sites).
+
+```{r, echo= FALSE}
+align_sequences()$EXO
+```
+
+### 6. Clustering of sequences.
+
+#### 6.1 Order sequences
+
+```{r, echo= FALSE, , fig.align = "center"}
+resume_df()
+```
+
+
+#### 6.2 Dendrogram hierachical clustering
+
+```{r, echo= FALSE, , fig.align = "center"}
+plot(df_clustering()[[3]])
+```
+
+
+
+### 7. Data analyses.
+
+#### 7.1 Endogenous methylation (CpG sites)
+
+##### 7.1.1 % Methylated
+
+```{r, echo= FALSE, , fig.align = "center"}
+nucleoplot_plot1()
+```
+
+#### 7.2 Exogenous methylation (GpC sites)
+
+##### 7.2.1 % Methylated
+
+```{r, echo= FALSE, fig.align = "center"}
+nucleoplot_plot2()
+```
+
+##### 7.2.2 Nucleosome occupancy (% of unmethilated)
+
+```{r, echo= FALSE, , fig.align = "center"}
+nucleoplot_plot3()
+```

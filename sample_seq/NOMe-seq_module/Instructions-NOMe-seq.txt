@@ -1,0 +1,33 @@
+Instructions to use NOMe-seq example data
+------------------------------------------
+
+NOMePlot is design to produce single molecule analysis of genomic regions of interest upon inspection of NOMe-seq data in a Genome viewer. 
+
+1. Establishing the genomic region of interest using IGV
+--------------------------------------------------------
+1.1. Open the Integrative Genomics Viewer (IGV) to browse the attached bam file and establish the genomic regions of interest. IGV can be freely downloaded from the broad institute at http://software.broadinstitute.org/software/igv/.
+1.2. Select "Human hg19" genome and upload the attached bam file. 
+1.3. In the search box type the gene name "i.e. RNF216" to move to this genomic region. Please, note that the loaded bam file contains only reads mapped to a region of Chromosome 7 (from 5,314,680 to 5,822,336 bp)
+1.4. Use the zoom tool to visualize a region of less than 2000 bp. We recommend selecting regions of around 600 bps with good read coverage (i.e. Exon1 of RNF216 - chr7:5,820,779-5,821,292).
+
+Please, note that reads that do not entirely map to the selected genomic interval will not be analysed by NOMePlot.
+
+
+2. Single molecule analysis using NOMePlot
+-------------------------------------------
+
+Use your web browser to go to NOMePlot main screen at https://landeiralab.shinyapps.io/nomeplot/
+
+1. Click on "High-throughput sequencing" on the left panel.
+2. Click on "NOMe-treated" on the left panel.
+3. Click on "Browse" on the "Problem sequences" panel and upload the attached BAM file. 
+4. Select "hg19 (Homo sapiens)" genomic assembly on "Reference sequence" panel. 
+5. Choose Chromosome 7 on "Reference sequence" panel. 
+6. Copy and paste the genomic interval coordinates into the "Genomic Interval - Start/End" boxes (i.e. Start: 5,820,779 End: 5,821,292).
+7. Click on Start analysis to visualize the results.
+8. Arrange sequences by adjusting the clustering window to 140 bp in the "Arrange sequences" panel.
+9. Click on "Download Genome-wide analysis" or " Download Lollipop graphic (.svg format)" to obtain analysis files.
+
+
+Note: The attached example bam file has been extracted from GEO Accession number: GSM1001125.
+

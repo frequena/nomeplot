@@ -1,0 +1,82 @@
+---
+title: "NOMePlot - A Webtool for the analysis of bisulfite data PRUEBAAA"
+graphics: yes
+date: '`r Sys.Date()`'
+output:
+  html_document:
+    fig_caption: yes
+    highlight: tango
+    theme: united
+    toc: yes
+    toc_depth: 3
+subtitle: Technical report
+---
+
+```{r set-options, echo=FALSE, cache=FALSE}
+options(width = 120)
+```
+### 1. Input sequences.
+#### 1.1 Reference genomic sequence.
+
+```{r, echo= FALSE}
+f_reference()$file_ref
+```
+
+#### 1.2 NOMe-treated sequences.
+
+```{r, echo= FALSE}
+f_problem()
+```
+
+### 2. CpG of reference genomic sequence.
+
+#### 2.1 CpG sites
+
+```{r, echo= FALSE}
+f_reference()$CpGsites
+```
+
+
+### 3. Quality control.
+
+#### 3.1 Datatable information
+
+```{r, echo= FALSE}
+qc_sequences()[[1]]
+```
+
+#### 3.2 Quality control - sequences converted.
+
+```{r, echo= FALSE}
+qc_sequences()[[2]]
+```
+
+#### 3.3 Quality control - trimming sequences.
+
+```{r, echo= FALSE}
+choose_option()
+```
+
+
+### 4. Binaries datatables.
+
+#### 4.1 Endogenous methylation (CpG sites).
+
+```{r, echo= FALSE}
+align_sequences()$END
+```
+
+### 6. Clustering of sequences.
+
+#### 6.1 Order of sequences
+
+```{r, echo= FALSE, , fig.align = "center"}
+resume_df()
+```
+
+
+#### 6.2 Dendrogram hierachical clustering
+
+```{r, echo= FALSE, , fig.align = "center"}
+plot(df_clustering()[[3]])
+```
