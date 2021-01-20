@@ -876,24 +876,47 @@ reference_gw <- reactive({
     
     req(input$tab == 'gw' | input$tab == 'gw_bi')
     
+    reference_input <- reference_gw()
+    start_interval <- start_interval()
+    test1 <<- reference_input
+    test2 <<- start_interval
+    test3 <<- chr_select_iso()
     
-    if (input$snp_gw == 2) {
+    if (input$snp_gw == 1) {
+      
+      if (input$tab == 'gw') {
+        gpc_list <- unname(str_locate_all(reference_input, 'GC[A,T,C]'))[[1]][,2] - 1
+        cpg_list <- unname(str_locate_all(reference_input, '[A,T,C]CG'))[[1]][,1] + 1
+        
+        initial_value_gpc <- as.numeric(gpc_list) + start_interval - 1
+        initial_value_cpg <- as.numeric(cpg_list) + start_interval - 1
+      } else {
+        
+        gpc_list <- unname(str_locate_all(reference_input, 'GC[A,T,C]'))[[1]][,2] -1
+        cpg_list <- unname(str_locate_all(reference_input, 'CG'))[[1]][,1] +1
+        
+        initial_value_gpc <- as.numeric(gpc_list) + start_interval - 1
+        initial_value_cpg <- as.numeric(cpg_list) + start_interval - 1
+      }
+    
+    
+    } else {
       
       library(VariantAnnotation)
       
       if (input$tab == 'gw') {
-        pathway_vcf <- input$file_vcf
-	gpc_list <- unname(str_locate_all(reference_gw(), 'GC[A,T,C]'))[[1]][,2] -1
-     	cpg_list <- unname(str_locate_all(reference_gw(), '[A,T,C]CG'))[[1]][,1] +1
-    	initial_value_gpc <- as.numeric(gpc_list) + start_interval() - 1
-    	initial_value_cpg <- as.numeric(cpg_list) + start_interval() - 1
+      pathway_vcf <- input$file_vcf
+	    gpc_list <- unname(str_locate_all(reference_input, 'GC[A,T,C]'))[[1]][,2] -1
+     	cpg_list <- unname(str_locate_all(reference_input, '[A,T,C]CG'))[[1]][,1] +1
+    	initial_value_gpc <- as.numeric(gpc_list) + start_interval - 1
+    	initial_value_cpg <- as.numeric(cpg_list) + start_interval - 1
       } else {
 
-     	gpc_list <- unname(str_locate_all(reference_gw(), 'GC[A,T,C]'))[[1]][,2] -1
-     	cpg_list <- unname(str_locate_all(reference_gw(), 'CG'))[[1]][,1] +1
+     	gpc_list <- unname(str_locate_all(reference_input, 'GC[A,T,C]'))[[1]][,2] -1
+     	cpg_list <- unname(str_locate_all(reference_input, 'CG'))[[1]][,1] +1
     	
-	initial_value_gpc <- as.numeric(gpc_list) + start_interval() - 1
-    	initial_value_cpg <- as.numeric(cpg_list) + start_interval() - 1
+	    initial_value_gpc <- as.numeric(gpc_list) + start_interval - 1
+    	initial_value_cpg <- as.numeric(cpg_list) + start_interval - 1
         pathway_vcf <- input$file_vcf_bi
       }
       pathway_vcf <- pathway_vcf$datapath
@@ -908,22 +931,13 @@ reference_gw <- reactive({
     
     cpg_list <- vcf_discard(pathway_vcf, chr_select_iso(), initial_value_cpg, cpg_list) 
     
-    }
+    } 
  
     result <- list("CPG" = cpg_list, "GPC" = gpc_list, "CPG2" = initial_value_cpg, "GPC2" = initial_value_gpc)
     
     return(result) 
 })
-  
-# url_bam <- reactive({
-#     
-#     bamPath <- input$bam_gw
-#     bamPath <- bamPath$datapath
-#     
-#    return(bamPath)
-#     
-#   })
-#   
+
  problem_gw_raw <- reactive({
    
 
@@ -1288,6 +1302,20 @@ df_lollipop_gw_gpc <- reactive({
   
   
 genomic_plot_prev <- reactive({
+  
+  # test4 <<- input$bam_gw
+  # test4 <- test4$datapath
+  # 
+  # test5 <<- chr_select_iso()
+  # test6 <<- sites_gw()[[3]]
+  # test7 <<- sites_gw()[[4]]
+  # test8 <<- start_interval()
+  # test9 <<- end_interval()
+  # test10 <<- input$file_reference_gw
+  
+  # plotviz('C:\\Users\\Requena\\Desktop\\sample_seq\\NOMe-seq_module\\NOMe-IMR90-Chr7-5314680-5822336.bam', test5, test6, test7,  
+  #         test8, test9, FALSE, test10)
+  
   
 
   if (input$tab == 'gw') {

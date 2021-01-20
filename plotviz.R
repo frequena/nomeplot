@@ -1,12 +1,3 @@
-# 
-# 
-#  patway <- "D:/nomeplot/bam_files/ACTB.bam"
-# chr_id <- 7
-#  sites_genome_cpg <- c(200, 300)
-#  sites_genome_gpc <- c(200, 300)
-#  start_id <- 5568253
-#  end_id <- 5568626
-#  genome_assembly <- 'hg19'
 
 
 plotviz <- function(patway, chr_id, sites_genome_cpg, sites_genome_gpc,  start_id, end_id, only_cpg = FALSE,
@@ -17,12 +8,23 @@ plotviz <- function(patway, chr_id, sites_genome_cpg, sites_genome_gpc,  start_i
   import::from(Gviz, plotTracks)
   import::from(Gviz, BiomartGeneRegionTrack)
   
+
+  
+  # test5 <<- chr_select_iso()
+  # test6 <<- sites_gw()[[3]]
+  # test7 <<- sites_gw()[[4]]
+  # test8 <<- start_interval()
+  # test9 <<- end_interval()
+  # test10 <<- input$file_reference_gw
+  
+  # patway <- 'C:\\Users\\Requena\\Desktop\\sample_seq\\NOMe-seq_module\\NOMe-IMR90-Chr7-5314680-5822336.bam'
+  # chr_id <- test5
+  # sites_genome_cpg <- test6
+  # sites_genome_gpc <- test7
+  # start_id <- test8
+  # end_id <- test9
+  # genome_assembly <- test10
   # 
-  # manolo3 <<- input$chr_select
-  # manolo4 <<- sites_gw()[[3]]
-  # manolo5 <<-  sites_gw()[[4]]
-  # manolo6 <<- start_interval()
-  # manolo7 <<- end_interval()
   # 
   # patway <- '/home/frequena/Desktop/archivos_BAM/in_chr3.bam'
   # chr_id <- manolo3
@@ -34,7 +36,7 @@ plotviz <- function(patway, chr_id, sites_genome_cpg, sites_genome_gpc,  start_i
   # prueba <<- patway
   #file.copy(patway, 'temporal.bam')
   indexBam(patway)
-  #patway <- paste0(patway, '.bam')
+  # patway <- paste0(patway, '.bam')
   
     # Configuration
   
@@ -46,8 +48,8 @@ plotviz <- function(patway, chr_id, sites_genome_cpg, sites_genome_gpc,  start_i
   
   #patway <- paste0(patway, '.bam')
   #file.rename(patway, paste0(patway, '.bam'))
-  sites_genome_cpg <- as.numeric(sites_genome_cpg)
-  sites_genome_gpc <- as.numeric(sites_genome_gpc)
+  # sites_genome_cpg <- as.character(sites_genome_cpg)
+  # sites_genome_gpc <- as.character(sites_genome_gpc)
   
   plot_cpg <- GRanges(seqnames = chr_id, ranges = IRanges(sites_genome_cpg, sites_genome_cpg))
   plot_gpc <- GRanges(seqnames = chr_id, ranges = IRanges(sites_genome_gpc, sites_genome_gpc))
@@ -57,8 +59,8 @@ plotviz <- function(patway, chr_id, sites_genome_cpg, sites_genome_gpc,  start_i
   # GGviz
   
   reads <-  Gviz::AnnotationTrack(range = patway, genome = genome_assembly, name = "Reads", chromosome = chr_id,  arrowHeadMaxWidth = 11)
-  prueba1 <- Gviz::AnnotationTrack(range = plot_cpg, genome = genome_assembly, name = "CpG", chromosome = chr_id, fill = 2, fontsize = 1,width = 10)
-  prueba2 <- Gviz::AnnotationTrack(range = plot_gpc, genome = genome_assembly, name = "GpC", chromosome = chr_id, fill = 4,  fontsize = 1)
+  prueba1 <- Gviz::AnnotationTrack(range = plot_cpg, genome = genome_assembly, name = "CpG", chromosome = chr_id, fill = 'lightblue', fontsize = 10)
+  prueba2 <- Gviz::AnnotationTrack(range = plot_gpc, genome = genome_assembly, name = "GpC", chromosome = chr_id, fill = 'red',  fontsize = 10)
   coverage <- Gviz::DataTrack(range = patway, genome = genome_assembly, type = "l", name = "Coverage", window = -1, chromosome = chr_id)
   
   
@@ -69,14 +71,10 @@ plotviz <- function(patway, chr_id, sites_genome_cpg, sites_genome_gpc,  start_i
     list_plot <- list(prueba2, biomTrack,reads, coverage)
   }
   
-  Gviz::plotTracks(list_plot, from = start_id, to = end_id, background.title = "steelblue", fontsize =15,
+
+  Gviz::plotTracks(list_plot, from = start_id, to = end_id, background.title = "steelblue", fontsize =20,
                    collapseTranscripts=T, shape="arrow", geneSymbols=T, arrowHeadWidth = 300)
   #file.remove('temporal.bam')
 }
-
-# coverage <- Gviz::DataTrack(range = , genome = "mm9", type = "l", name = "Coverage", window = -1, chromosome = chr_id)
-# Gviz::plotTracks(list(prueba1, prueba2, biomTrack, coverage), from = start_id, to = end_id, background.title = "steelblue", fontsize =15,
-#                  collapseTranscripts=T, shape="arrow", geneSymbols=T, arrowHeadWidth = 300)
-# BiomartGeneRegionTrack(genome="mm9", chromosome='X', start=83437700, end=83438570, name="Ensembl", lwd = 6)
 
 
