@@ -17,7 +17,7 @@ plotviz <- function(patway, chr_id, sites_genome_cpg, sites_genome_gpc,  start_i
   # test9 <<- end_interval()
   # test10 <<- input$file_reference_gw
   
-  # patway <- 'C:\\Users\\Requena\\Desktop\\sample_seq\\NOMe-seq_module\\NOMe-IMR90-Chr7-5314680-5822336.bam'
+  # patway <- 'C:\\Users\\Requena\\Desktop\\sample_seq\\NOMe-seq_module\\Amh_2U.bam'
   # chr_id <- test5
   # sites_genome_cpg <- test6
   # sites_genome_gpc <- test7
@@ -53,8 +53,8 @@ plotviz <- function(patway, chr_id, sites_genome_cpg, sites_genome_gpc,  start_i
   
   plot_cpg <- GRanges(seqnames = chr_id, ranges = IRanges(sites_genome_cpg, sites_genome_cpg))
   plot_gpc <- GRanges(seqnames = chr_id, ranges = IRanges(sites_genome_gpc, sites_genome_gpc))
-  biomTrack <- BiomartGeneRegionTrack(genome= genome_assembly, chromosome=chr_id, start=start_id, end=end_id, name="Ensembl", lwd = 6,
-                                      filter = list(with_ox_refseq_mrna = TRUE))
+  biomTrack <- BiomartGeneRegionTrack(genome= genome_assembly, chromosome=chr_id, start=start_id, 
+                                      end=end_id, name="Ensembl", lwd = 6)
   
   # GGviz
   
