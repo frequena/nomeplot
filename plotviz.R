@@ -53,8 +53,8 @@ plotviz <- function(patway, chr_id, sites_genome_cpg, sites_genome_gpc,  start_i
   
   plot_cpg <- GRanges(seqnames = chr_id, ranges = IRanges(sites_genome_cpg, sites_genome_cpg))
   plot_gpc <- GRanges(seqnames = chr_id, ranges = IRanges(sites_genome_gpc, sites_genome_gpc))
-  biomTrack <- BiomartGeneRegionTrack(genome= genome_assembly, chromosome=chr_id, start=start_id, 
-                                      end=end_id, name="Ensembl", lwd = 6)
+  # biomTrack <- BiomartGeneRegionTrack(genome= genome_assembly, chromosome=chr_id, start=start_id, 
+  #                                     end=end_id, name="Ensembl", lwd = 6)
   
   # GGviz
   
@@ -65,10 +65,10 @@ plotviz <- function(patway, chr_id, sites_genome_cpg, sites_genome_gpc,  start_i
   
   
   if (only_cpg == FALSE) {
-    list_plot <- list(prueba1, prueba2, biomTrack,reads, coverage)
+    list_plot <- list(prueba1, prueba2,reads, coverage)
   } else {
     
-    list_plot <- list(prueba2, biomTrack,reads, coverage)
+    list_plot <- list(prueba2,reads, coverage)
   }
   
 
