@@ -938,41 +938,48 @@ reference_gw <- reactive({
     return(result) 
 })
 
- problem_gw_raw <- reactive({
+ 
+
+
+aective({
    
 
    
    what <- c("rname", "strand", "pos", "qwidth", "seq")
-   
+
+
    if (input$tab == 'gw') {
      
-   which <- GRanges( seqnames = paste0('chr', chr_select_iso()), 
-                     ranges =  IRanges(start_interval(), end_interval()))
-   param <- ScanBamParam(which = which, what = what)
-   
-   bamPath <- input$bam_gw
-   bamPath <- bamPath$datapath
-   problem_seq <- scanBam(file = bamPath, index = indexBam(bamPath), param = param)
-   problem_seq <- collect_seq(problem_seq, bamPath,  start_interval(), end_interval(), chr_select_iso())
-   
+     bamPath <- input$bam_gw
+     
    } else if (input$tab == 'gw_bi') {
      
-   which <- GRanges( seqnames = paste0('chr', chr_select_iso()), 
-                       ranges =  IRanges(start_interval(), end_interval()))
-   param <- ScanBamParam(which = which, what = what)
-     
-   bamPath <- input$bam_gw_bi
+     bamPath <- input$bam_gw_bi
+   }
+   
    bamPath <- bamPath$datapath
+
+  bf <- BamFile(bamPath)
+  
+  chrom_identifiers <- seqnames(seqinfo(bf))[nchar(seqnames(seqinfo(bf))) < 4]
+  
+  if (grepl(chrom_identifiers[1], 'chr')) {
+    
+  which <- GRanges( seqnames = paste0('chr', chr_select_iso()), ranges =  IRanges(start_interval(), end_interval()))
+  } else {
+      which <- GRanges( seqnames = chr_select_iso(), ranges =  IRanges(start_interval(), end_interval()))
+  }
+   param <- ScanBamParam(which = which, what = what)
+   
    
      problem_seq <- scanBam(file = bamPath, index = indexBam(bamPath), param = param)
      problem_seq <- collect_seq(problem_seq, bamPath,  start_interval(), end_interval(), chr_select_iso())
      
-   }
+   
    
    return(problem_seq)
   
 })
- 
 
 
 gpc_ranges <- reactive({
