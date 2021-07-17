@@ -941,8 +941,9 @@ reference_gw <- reactive({
  
 
 
-aective({
-   
+ problem_gw_raw <- reactive({
+
+
 
    
    what <- c("rname", "strand", "pos", "qwidth", "seq")
@@ -973,7 +974,7 @@ aective({
    
    
      problem_seq <- scanBam(file = bamPath, index = indexBam(bamPath), param = param)
-     problem_seq <- collect_seq(problem_seq, bamPath,  start_interval(), end_interval(), chr_select_iso())
+     problem_seq <- collect_seq(problem_seq, bamPath,  start_interval(), end_interval(), chr_select_iso(), which)
      
    
    
